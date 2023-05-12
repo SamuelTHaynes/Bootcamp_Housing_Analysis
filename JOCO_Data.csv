@@ -1,675 +1,675 @@
 period_begin,period_end,region,property_type,median_sale_price,median_list_price,homes_sold,new_listings,months_of_supply
-3/1/2016,3/31/2016,"Johnson County, KS",Townhouse,152700.0,275000.0,70.0,87.0,2.3
-3/1/2021,3/31/2021,"Johnson County, KS",Townhouse,239500.0,369000.0,42.0,71.0,0.8
-6/1/2015,6/30/2015,"Johnson County, KS",Condo/Co-op,90000.0,245000.0,15.0,18.0,3.9
-12/1/2021,12/31/2021,"Johnson County, KS",Condo/Co-op,155000.0,370000.0,19.0,8.0,0.5
-4/1/2018,4/30/2018,"Johnson County, KS",Townhouse,168500.0,303250.0,79.0,84.0,1.7
-8/1/2021,8/31/2021,"Johnson County, KS",All Residential,361000.0,350000.0,1235.0,1079.0,1.1
-5/1/2013,5/31/2013,"Johnson County, KS",Townhouse,116850.0,214950.0,70.0,99.0,4.1
-9/1/2021,9/30/2021,"Johnson County, KS",Multi-Family (2-4 Unit),252500.0,360000.0,2.0,8.0,3.0
-8/1/2013,8/31/2013,"Johnson County, KS",Multi-Family (2-4 Unit),136000.0,219950.0,9.0,8.0,2.6
-12/1/2016,12/31/2016,"Johnson County, KS",Multi-Family (2-4 Unit),201000.0,261500.0,5.0,3.0,2.4
-2/1/2013,2/28/2013,"Johnson County, KS",Condo/Co-op,94000.0,214475.0,6.0,11.0,10.0
-12/1/2014,12/31/2014,"Johnson County, KS",Townhouse,156000.0,220000.0,50.0,36.0,3.7
-10/1/2012,10/31/2012,"Johnson County, KS",Condo/Co-op,81000.0,219975.0,17.0,18.0,4.1
-12/1/2017,12/31/2017,"Johnson County, KS",Multi-Family (2-4 Unit),180000.0,274900.0,19.0,7.0,0.3
-5/1/2015,5/31/2015,"Johnson County, KS",Single Family Residential,245000.0,240000.0,1135.0,1283.0,3.1
-3/1/2012,3/31/2012,"Johnson County, KS",Single Family Residential,205225.0,209950.0,604.0,1183.0,6.2
-2/1/2018,2/28/2018,"Johnson County, KS",Multi-Family (2-4 Unit),210000.0,299550.0,9.0,9.0,1.6
-8/1/2022,8/31/2022,"Johnson County, KS",Condo/Co-op,174750.0,379900.0,16.0,17.0,0.5
-1/1/2023,1/31/2023,"Johnson County, KS",Condo/Co-op,155000.0,425000.0,11.0,9.0,1.7
-6/1/2018,6/30/2018,"Johnson County, KS",Single Family Residential,301000.0,289500.0,1250.0,1269.0,1.9
-4/1/2020,4/30/2020,"Johnson County, KS",Single Family Residential,336750.0,312000.0,802.0,845.0,2.0
-5/1/2015,5/31/2015,"Johnson County, KS",Multi-Family (2-4 Unit),184000.0,240000.0,9.0,12.0,2.2
-1/1/2020,1/31/2020,"Johnson County, KS",Multi-Family (2-4 Unit),280000.0,329900.0,3.0,7.0,1.3
-10/1/2013,10/31/2013,"Johnson County, KS",Single Family Residential,232500.0,220000.0,767.0,796.0,4.1
-2/1/2021,2/28/2021,"Johnson County, KS",Townhouse,210475.0,379950.0,46.0,39.0,0.7
-5/1/2015,5/31/2015,"Johnson County, KS",All Residential,230000.0,240000.0,1271.0,1412.0,3.0
-3/1/2015,3/31/2015,"Johnson County, KS",All Residential,220000.0,240000.0,887.0,1253.0,3.9
-11/1/2016,11/30/2016,"Johnson County, KS",Single Family Residential,271000.0,250000.0,729.0,592.0,2.8
-4/1/2022,4/30/2022,"Johnson County, KS",Condo/Co-op,170000.0,400000.0,19.0,18.0,0.7
-5/1/2022,5/31/2022,"Johnson County, KS",Condo/Co-op,171500.0,399950.0,12.0,18.0,1.0
-10/1/2016,10/31/2016,"Johnson County, KS",Multi-Family (2-4 Unit),237500.0,255000.0,6.0,8.0,3.2
-7/1/2020,7/31/2020,"Johnson County, KS",All Residential,337500.0,325000.0,1355.0,1324.0,1.2
-3/1/2013,3/31/2013,"Johnson County, KS",Multi-Family (2-4 Unit),145000.0,215000.0,5.0,4.0,6.4
-12/1/2019,12/31/2019,"Johnson County, KS",All Residential,298000.0,300000.0,811.0,424.0,2.0
-1/1/2017,1/31/2017,"Johnson County, KS",Condo/Co-op,119000.0,269975.0,15.0,15.0,2.3
-12/1/2019,12/31/2019,"Johnson County, KS",Condo/Co-op,120000.0,300000.0,16.0,10.0,1.8
-11/1/2016,11/30/2016,"Johnson County, KS",Multi-Family (2-4 Unit),184250.0,250000.0,6.0,4.0,2.2
-10/1/2014,10/31/2014,"Johnson County, KS",Townhouse,143500.0,225000.0,77.0,69.0,2.9
-11/1/2013,11/30/2013,"Johnson County, KS",Townhouse,135000.0,219900.0,37.0,36.0,6.5
-1/1/2021,1/31/2021,"Johnson County, KS",All Residential,331000.0,360000.0,673.0,810.0,1.7
-7/1/2020,7/31/2020,"Johnson County, KS",Multi-Family (2-4 Unit),280500.0,325000.0,7.0,3.0,0.7
-1/1/2013,1/31/2013,"Johnson County, KS",Townhouse,102500.0,210000.0,30.0,52.0,6.7
-6/1/2021,6/30/2021,"Johnson County, KS",Multi-Family (2-4 Unit),321250.0,350000.0,14.0,7.0,0.3
-1/1/2019,1/31/2019,"Johnson County, KS",Multi-Family (2-4 Unit),248000.0,309000.0,5.0,8.0,2.0
-7/1/2015,7/31/2015,"Johnson County, KS",Multi-Family (2-4 Unit),156000.0,237950.0,5.0,8.0,5.2
-2/1/2017,2/28/2017,"Johnson County, KS",Townhouse,148500.0,285000.0,55.0,56.0,1.7
-6/1/2019,6/30/2019,"Johnson County, KS",All Residential,308000.0,299500.0,1305.0,1299.0,1.8
-2/1/2019,2/28/2019,"Johnson County, KS",Condo/Co-op,121875.0,309725.0,14.0,17.0,2.1
-2/1/2019,2/28/2019,"Johnson County, KS",Single Family Residential,283500.0,309725.0,517.0,717.0,3.4
-8/1/2018,8/31/2018,"Johnson County, KS",Condo/Co-op,114200.0,279000.0,12.0,30.0,3.2
-11/1/2015,11/30/2015,"Johnson County, KS",Townhouse,145000.0,244975.0,50.0,47.0,3.4
-12/1/2017,12/31/2017,"Johnson County, KS",Townhouse,152500.0,274900.0,52.0,38.0,2.3
-1/1/2015,1/31/2015,"Johnson County, KS",Condo/Co-op,119725.5,243900.0,8.0,13.0,7.0
-6/1/2022,6/30/2022,"Johnson County, KS",Condo/Co-op,192500.0,399900.0,24.0,14.0,0.3
-1/1/2023,1/31/2023,"Johnson County, KS",Single Family Residential,405000.0,425000.0,385.0,495.0,2.7
-2/1/2018,2/28/2018,"Johnson County, KS",All Residential,263000.0,299550.0,588.0,836.0,3.0
-4/1/2019,4/30/2019,"Johnson County, KS",Condo/Co-op,147344.0,325000.0,14.0,24.0,2.3
-10/1/2021,10/31/2021,"Johnson County, KS",Townhouse,215000.0,350000.0,64.0,83.0,1.0
-2/1/2012,2/29/2012,"Johnson County, KS",Condo/Co-op,80000.0,207250.0,8.0,17.0,11.1
-3/1/2018,3/31/2018,"Johnson County, KS",Multi-Family (2-4 Unit),208750.0,299500.0,6.0,7.0,2.5
-1/1/2016,1/31/2016,"Johnson County, KS",Single Family Residential,243600.0,264950.0,462.0,635.0,4.8
-5/1/2019,5/31/2019,"Johnson County, KS",Single Family Residential,320000.0,310000.0,1169.0,1338.0,1.9
-6/1/2020,6/30/2020,"Johnson County, KS",Condo/Co-op,132000.0,345000.0,19.0,17.0,0.9
-2/1/2013,2/28/2013,"Johnson County, KS",All Residential,193200.0,214475.0,528.0,896.0,6.3
-8/1/2012,8/31/2012,"Johnson County, KS",Condo/Co-op,74029.0,209450.0,11.0,21.0,7.4
-5/1/2014,5/31/2014,"Johnson County, KS",Multi-Family (2-4 Unit),211000.0,230000.0,11.0,12.0,3.5
-10/1/2016,10/31/2016,"Johnson County, KS",Townhouse,156450.0,255000.0,70.0,64.0,1.8
-1/1/2021,1/31/2021,"Johnson County, KS",Condo/Co-op,214500.0,360000.0,10.0,11.0,1.7
-2/1/2020,2/29/2020,"Johnson County, KS",Multi-Family (2-4 Unit),295000.0,341000.0,5.0,10.0,1.2
-2/1/2017,2/28/2017,"Johnson County, KS",All Residential,248450.0,285000.0,536.0,962.0,3.6
-4/1/2012,4/30/2012,"Johnson County, KS",Condo/Co-op,67400.0,215000.0,12.0,15.0,7.3
-1/1/2022,1/31/2022,"Johnson County, KS",Single Family Residential,410000.0,379950.0,464.0,570.0,1.5
-4/1/2013,4/30/2013,"Johnson County, KS",Single Family Residential,212500.0,220000.0,723.0,1231.0,5.1
-12/1/2014,12/31/2014,"Johnson County, KS",Single Family Residential,245750.0,220000.0,640.0,389.0,3.8
-4/1/2016,4/30/2016,"Johnson County, KS",Townhouse,149950.0,275000.0,81.0,98.0,1.9
-10/1/2018,10/31/2018,"Johnson County, KS",Multi-Family (2-4 Unit),207000.0,294950.0,10.0,5.0,0.8
-11/1/2013,11/30/2013,"Johnson County, KS",Multi-Family (2-4 Unit),145000.0,219900.0,7.0,6.0,4.9
-1/1/2012,1/31/2012,"Johnson County, KS",Condo/Co-op,110000.0,199250.0,3.0,14.0,29.7
-9/1/2012,9/30/2012,"Johnson County, KS",Multi-Family (2-4 Unit),167000.0,208950.0,2.0,4.0,11.0
-1/1/2018,1/31/2018,"Johnson County, KS",Condo/Co-op,206000.0,276250.0,14.0,12.0,1.6
-10/1/2012,10/31/2012,"Johnson County, KS",Single Family Residential,215000.0,219975.0,640.0,739.0,5.3
-6/1/2018,6/30/2018,"Johnson County, KS",Multi-Family (2-4 Unit),252500.0,289500.0,5.0,6.0,1.2
-10/1/2012,10/31/2012,"Johnson County, KS",Townhouse,128500.0,219975.0,44.0,44.0,5.8
-9/1/2022,9/30/2022,"Johnson County, KS",Townhouse,275000.0,395000.0,67.0,62.0,1.1
-11/1/2021,11/30/2021,"Johnson County, KS",Single Family Residential,371000.0,360000.0,856.0,562.0,1.0
-2/1/2016,2/29/2016,"Johnson County, KS",Single Family Residential,239500.0,261050.0,514.0,816.0,4.1
-3/1/2022,3/31/2022,"Johnson County, KS",All Residential,401000.0,388450.0,786.0,1112.0,1.2
-10/1/2013,10/31/2013,"Johnson County, KS",Townhouse,142750.0,220000.0,62.0,81.0,4.2
-12/1/2021,12/31/2021,"Johnson County, KS",Single Family Residential,395000.0,370000.0,826.0,446.0,0.9
-1/1/2014,1/31/2014,"Johnson County, KS",Townhouse,128000.0,227000.0,34.0,58.0,6.3
-10/1/2017,10/31/2017,"Johnson County, KS",Single Family Residential,274975.0,279900.0,802.0,835.0,2.7
-11/1/2014,11/30/2014,"Johnson County, KS",Condo/Co-op,101500.0,230000.0,12.0,10.0,6.1
-4/1/2015,4/30/2015,"Johnson County, KS",All Residential,225000.0,245000.0,1024.0,1505.0,3.7
-6/1/2018,6/30/2018,"Johnson County, KS",Condo/Co-op,141000.0,289500.0,22.0,25.0,1.0
-5/1/2017,5/31/2017,"Johnson County, KS",Townhouse,164150.0,269997.0,78.0,82.0,1.4
-11/1/2018,11/30/2018,"Johnson County, KS",Condo/Co-op,127990.0,289700.0,18.0,6.0,1.5
-2/1/2021,2/28/2021,"Johnson County, KS",Condo/Co-op,175000.0,379950.0,13.0,21.0,1.6
-12/1/2015,12/31/2015,"Johnson County, KS",Multi-Family (2-4 Unit),174950.0,239900.0,5.0,7.0,2.6
-9/1/2022,9/30/2022,"Johnson County, KS",Multi-Family (2-4 Unit),457975.0,395000.0,4.0,4.0,0.3
-1/1/2014,1/31/2014,"Johnson County, KS",Single Family Residential,208500.0,227000.0,463.0,600.0,5.4
-4/1/2016,4/30/2016,"Johnson County, KS",Condo/Co-op,107000.0,275000.0,21.0,19.0,1.8
-10/1/2013,10/31/2013,"Johnson County, KS",Multi-Family (2-4 Unit),202500.0,220000.0,6.0,12.0,6.3
-4/1/2018,4/30/2018,"Johnson County, KS",Multi-Family (2-4 Unit),262500.0,303250.0,6.0,8.0,2.3
-10/1/2021,10/31/2021,"Johnson County, KS",All Residential,360000.0,350000.0,991.0,968.0,1.1
-3/1/2022,3/31/2022,"Johnson County, KS",Single Family Residential,416000.0,388450.0,714.0,1015.0,1.3
-9/1/2017,9/30/2017,"Johnson County, KS",Townhouse,169950.0,265000.0,75.0,109.0,2.2
-8/1/2012,8/31/2012,"Johnson County, KS",Single Family Residential,231500.0,209450.0,840.0,800.0,4.3
-12/1/2020,12/31/2020,"Johnson County, KS",Condo/Co-op,155500.0,319900.0,27.0,13.0,0.7
-7/1/2018,7/31/2018,"Johnson County, KS",All Residential,290000.0,274900.0,1183.0,1213.0,2.2
-10/1/2020,10/31/2020,"Johnson County, KS",Townhouse,222500.0,320000.0,76.0,94.0,1.0
-1/1/2020,1/31/2020,"Johnson County, KS",Condo/Co-op,116500.0,329900.0,12.0,18.0,2.0
-3/1/2017,3/31/2017,"Johnson County, KS",Condo/Co-op,115000.0,298000.0,19.0,27.0,1.9
-4/1/2022,4/30/2022,"Johnson County, KS",Townhouse,265000.0,400000.0,60.0,70.0,1.1
-10/1/2022,10/31/2022,"Johnson County, KS",Single Family Residential,415500.0,392500.0,715.0,583.0,1.8
-1/1/2019,1/31/2019,"Johnson County, KS",Condo/Co-op,127250.0,309000.0,8.0,14.0,3.1
-7/1/2021,7/31/2021,"Johnson County, KS",All Residential,375000.0,339950.0,1251.0,1279.0,1.2
-7/1/2018,7/31/2018,"Johnson County, KS",Multi-Family (2-4 Unit),279500.0,274900.0,5.0,7.0,2.0
-5/1/2018,5/31/2018,"Johnson County, KS",Single Family Residential,300000.0,297750.0,1129.0,1309.0,2.0
-11/1/2021,11/30/2021,"Johnson County, KS",Multi-Family (2-4 Unit),362500.0,360000.0,6.0,15.0,1.7
-10/1/2022,10/31/2022,"Johnson County, KS",Condo/Co-op,171900.0,392500.0,9.0,17.0,1.9
-9/1/2017,9/30/2017,"Johnson County, KS",All Residential,250000.0,265000.0,947.0,1134.0,2.5
-2/1/2016,2/29/2016,"Johnson County, KS",Townhouse,150000.0,261050.0,31.0,71.0,5.2
-6/1/2019,6/30/2019,"Johnson County, KS",Single Family Residential,325000.0,299500.0,1187.0,1168.0,1.9
-1/1/2021,1/31/2021,"Johnson County, KS",Multi-Family (2-4 Unit),275000.0,360000.0,6.0,2.0,0.2
-9/1/2018,9/30/2018,"Johnson County, KS",All Residential,264500.0,300000.0,836.0,1009.0,3.1
-5/1/2020,5/31/2020,"Johnson County, KS",Condo/Co-op,137000.0,339000.0,15.0,13.0,1.0
-8/1/2020,8/31/2020,"Johnson County, KS",Townhouse,210500.0,335000.0,74.0,77.0,0.9
-5/1/2016,5/31/2016,"Johnson County, KS",Multi-Family (2-4 Unit),188500.0,255000.0,10.0,8.0,1.0
-7/1/2021,7/31/2021,"Johnson County, KS",Multi-Family (2-4 Unit),345000.0,339950.0,7.0,8.0,0.7
-8/1/2016,8/31/2016,"Johnson County, KS",Townhouse,154750.0,254950.0,86.0,75.0,1.8
-5/1/2021,5/31/2021,"Johnson County, KS",All Residential,373000.0,365000.0,1122.0,1360.0,1.2
-3/1/2023,3/31/2023,"Johnson County, KS",Multi-Family (2-4 Unit),361750.0,420000.0,4.0,7.0,1.3
-2/1/2019,2/28/2019,"Johnson County, KS",Multi-Family (2-4 Unit),265000.0,309725.0,3.0,3.0,2.3
-8/1/2020,8/31/2020,"Johnson County, KS",Multi-Family (2-4 Unit),207500.0,335000.0,4.0,10.0,1.0
-3/1/2014,3/31/2014,"Johnson County, KS",Townhouse,120000.0,229000.0,54.0,84.0,4.5
-11/1/2012,11/30/2012,"Johnson County, KS",Condo/Co-op,85750.0,196000.0,14.0,10.0,4.0
-12/1/2013,12/31/2013,"Johnson County, KS",Condo/Co-op,90075.0,219900.0,10.0,5.0,4.0
-11/1/2017,11/30/2017,"Johnson County, KS",All Residential,262200.0,267950.0,941.0,760.0,2.2
-8/1/2019,8/31/2019,"Johnson County, KS",All Residential,297475.0,300000.0,1182.0,1115.0,1.9
-11/1/2019,11/30/2019,"Johnson County, KS",Townhouse,210000.0,320000.0,67.0,52.0,1.5
-7/1/2020,7/31/2020,"Johnson County, KS",Townhouse,225000.0,325000.0,72.0,87.0,1.0
-12/1/2013,12/31/2013,"Johnson County, KS",Multi-Family (2-4 Unit),136000.0,219900.0,6.0,5.0,4.2
-3/1/2019,3/31/2019,"Johnson County, KS",Townhouse,205000.0,310000.0,71.0,65.0,1.3
-7/1/2016,7/31/2016,"Johnson County, KS",Condo/Co-op,110000.0,250000.0,15.0,17.0,3.2
-2/1/2015,2/28/2015,"Johnson County, KS",Townhouse,131000.0,239950.0,33.0,61.0,6.5
-7/1/2018,7/31/2018,"Johnson County, KS",Townhouse,179500.0,274900.0,86.0,110.0,1.8
-8/1/2019,8/31/2019,"Johnson County, KS",Single Family Residential,305312.5,300000.0,1070.0,998.0,2.0
-12/1/2016,12/31/2016,"Johnson County, KS",Single Family Residential,260000.0,261500.0,768.0,367.0,2.2
-1/1/2014,1/31/2014,"Johnson County, KS",Condo/Co-op,96500.0,227000.0,10.0,15.0,4.3
-12/1/2015,12/31/2015,"Johnson County, KS",Condo/Co-op,95200.0,239900.0,14.0,13.0,3.6
-6/1/2022,6/30/2022,"Johnson County, KS",Single Family Residential,430000.0,399900.0,1101.0,1166.0,1.1
-9/1/2012,9/30/2012,"Johnson County, KS",Single Family Residential,212500.0,208950.0,596.0,718.0,5.9
-4/1/2012,4/30/2012,"Johnson County, KS",All Residential,195250.0,215000.0,755.0,1196.0,5.9
-3/1/2015,3/31/2015,"Johnson County, KS",Condo/Co-op,115250.0,240000.0,14.0,24.0,4.9
-8/1/2012,8/31/2012,"Johnson County, KS",Townhouse,138500.0,209450.0,74.0,59.0,3.8
-12/1/2013,12/31/2013,"Johnson County, KS",All Residential,207950.0,219900.0,749.0,435.0,3.7
-6/1/2022,6/30/2022,"Johnson County, KS",All Residential,410000.0,399900.0,1206.0,1262.0,1.1
-10/1/2020,10/31/2020,"Johnson County, KS",All Residential,339000.0,320000.0,1152.0,1283.0,1.4
-11/1/2014,11/30/2014,"Johnson County, KS",Single Family Residential,237250.0,230000.0,590.0,524.0,4.9
-5/1/2018,5/31/2018,"Johnson County, KS",Townhouse,179000.0,297750.0,78.0,103.0,2.0
-11/1/2012,11/30/2012,"Johnson County, KS",All Residential,204000.0,196000.0,691.0,635.0,4.9
-10/1/2022,10/31/2022,"Johnson County, KS",Multi-Family (2-4 Unit),475000.0,392500.0,3.0,3.0,1.0
-6/1/2018,6/30/2018,"Johnson County, KS",All Residential,290000.0,289500.0,1363.0,1385.0,1.8
-3/1/2016,3/31/2016,"Johnson County, KS",All Residential,235000.0,275000.0,862.0,1399.0,3.0
-10/1/2015,10/31/2015,"Johnson County, KS",All Residential,239950.0,249250.0,865.0,897.0,3.6
-7/1/2017,7/31/2017,"Johnson County, KS",Multi-Family (2-4 Unit),225600.0,265000.0,3.0,9.0,5.3
-10/1/2019,10/31/2019,"Johnson County, KS",Condo/Co-op,133725.0,299000.0,16.0,18.0,2.3
-2/1/2023,2/28/2023,"Johnson County, KS",Multi-Family (2-4 Unit),254750.0,415000.0,2.0,4.0,2.0
-3/1/2016,3/31/2016,"Johnson County, KS",Multi-Family (2-4 Unit),208575.0,275000.0,8.0,13.0,2.5
-7/1/2017,7/31/2017,"Johnson County, KS",Condo/Co-op,117000.0,265000.0,25.0,27.0,1.6
-12/1/2012,12/31/2012,"Johnson County, KS",Multi-Family (2-4 Unit),163250.0,213100.0,9.0,2.0,2.2
-2/1/2013,2/28/2013,"Johnson County, KS",Multi-Family (2-4 Unit),217500.0,214475.0,2.0,12.0,17.0
-9/1/2020,9/30/2020,"Johnson County, KS",Townhouse,230000.0,350000.0,79.0,70.0,0.8
-2/1/2020,2/29/2020,"Johnson County, KS",Condo/Co-op,130000.0,341000.0,13.0,21.0,2.1
-5/1/2014,5/31/2014,"Johnson County, KS",Condo/Co-op,111750.0,230000.0,12.0,29.0,6.1
-4/1/2020,4/30/2020,"Johnson County, KS",Condo/Co-op,125840.0,312000.0,21.0,12.0,1.0
-9/1/2013,9/30/2013,"Johnson County, KS",Condo/Co-op,78300.0,215000.0,14.0,16.0,3.7
-9/1/2013,9/30/2013,"Johnson County, KS",All Residential,209000.0,215000.0,868.0,890.0,4.2
-1/1/2019,1/31/2019,"Johnson County, KS",All Residential,277500.0,309000.0,528.0,762.0,3.6
-2/1/2017,2/28/2017,"Johnson County, KS",Single Family Residential,264950.0,285000.0,463.0,884.0,3.9
-4/1/2016,4/30/2016,"Johnson County, KS",Multi-Family (2-4 Unit),169000.0,275000.0,4.0,6.0,3.8
-2/1/2023,2/28/2023,"Johnson County, KS",Condo/Co-op,195700.0,415000.0,7.0,9.0,2.6
-10/1/2018,10/31/2018,"Johnson County, KS",Single Family Residential,280000.0,294950.0,869.0,839.0,2.6
-4/1/2021,4/30/2021,"Johnson County, KS",All Residential,368250.0,374600.0,992.0,1393.0,1.3
-7/1/2021,7/31/2021,"Johnson County, KS",Condo/Co-op,150000.0,339950.0,17.0,25.0,1.4
-11/1/2015,11/30/2015,"Johnson County, KS",Condo/Co-op,83750.0,244975.0,10.0,15.0,5.5
-5/1/2022,5/31/2022,"Johnson County, KS",All Residential,415000.0,399950.0,1074.0,1219.0,1.1
-9/1/2016,9/30/2016,"Johnson County, KS",Single Family Residential,265000.0,260000.0,891.0,895.0,2.7
-5/1/2016,5/31/2016,"Johnson County, KS",All Residential,247750.0,255000.0,1212.0,1325.0,2.3
-3/1/2015,3/31/2015,"Johnson County, KS",Multi-Family (2-4 Unit),161500.0,240000.0,10.0,6.0,1.7
-12/1/2013,12/31/2013,"Johnson County, KS",Single Family Residential,221425.0,219900.0,676.0,395.0,3.7
-4/1/2013,4/30/2013,"Johnson County, KS",Multi-Family (2-4 Unit),178000.0,220000.0,7.0,6.0,4.3
-9/1/2013,9/30/2013,"Johnson County, KS",Single Family Residential,224000.0,215000.0,789.0,801.0,4.2
-3/1/2018,3/31/2018,"Johnson County, KS",Single Family Residential,291000.0,299500.0,759.0,1255.0,2.5
-9/1/2017,9/30/2017,"Johnson County, KS",Condo/Co-op,124925.0,265000.0,22.0,32.0,2.0
-8/1/2018,8/31/2018,"Johnson County, KS",All Residential,278000.0,279000.0,1139.0,1196.0,2.3
-2/1/2014,2/28/2014,"Johnson County, KS",Multi-Family (2-4 Unit),140550.0,230000.0,6.0,6.0,5.7
-5/1/2022,5/31/2022,"Johnson County, KS",Single Family Residential,435000.0,399950.0,995.0,1112.0,1.0
-12/1/2022,12/31/2022,"Johnson County, KS",Multi-Family (2-4 Unit),311000.0,400000.0,7.0,4.0,0.1
-1/1/2017,1/31/2017,"Johnson County, KS",Multi-Family (2-4 Unit),215000.0,269975.0,7.0,5.0,1.0
-3/1/2021,3/31/2021,"Johnson County, KS",Condo/Co-op,160000.0,369000.0,17.0,19.0,1.1
-12/1/2017,12/31/2017,"Johnson County, KS",Condo/Co-op,145000.0,274900.0,19.0,9.0,1.3
-4/1/2018,4/30/2018,"Johnson County, KS",Condo/Co-op,147000.0,303250.0,13.0,21.0,1.4
-7/1/2021,7/31/2021,"Johnson County, KS",Townhouse,235000.0,339950.0,71.0,83.0,0.8
-1/1/2013,1/31/2013,"Johnson County, KS",Single Family Residential,206000.0,210000.0,428.0,722.0,6.5
-3/1/2020,3/31/2020,"Johnson County, KS",All Residential,325000.0,320000.0,882.0,1163.0,2.0
-6/1/2016,6/30/2016,"Johnson County, KS",Single Family Residential,275000.0,254950.0,1269.0,1252.0,2.1
-11/1/2017,11/30/2017,"Johnson County, KS",Townhouse,170000.0,267950.0,85.0,55.0,1.5
-9/1/2016,9/30/2016,"Johnson County, KS",Townhouse,151750.0,260000.0,94.0,67.0,1.5
-11/1/2014,11/30/2014,"Johnson County, KS",All Residential,220000.0,230000.0,659.0,591.0,4.8
-2/1/2016,2/29/2016,"Johnson County, KS",Multi-Family (2-4 Unit),167500.0,261050.0,6.0,15.0,3.3
-4/1/2018,4/30/2018,"Johnson County, KS",All Residential,280593.0,303250.0,954.0,1398.0,2.3
-6/1/2015,6/30/2015,"Johnson County, KS",Multi-Family (2-4 Unit),169000.0,245000.0,6.0,11.0,4.2
-10/1/2021,10/31/2021,"Johnson County, KS",Single Family Residential,375444.0,350000.0,907.0,861.0,1.2
-2/1/2015,2/28/2015,"Johnson County, KS",Single Family Residential,226500.0,239950.0,490.0,811.0,5.8
-6/1/2021,6/30/2021,"Johnson County, KS",All Residential,370000.0,350000.0,1345.0,1321.0,1.0
-4/1/2015,4/30/2015,"Johnson County, KS",Multi-Family (2-4 Unit),170000.0,245000.0,6.0,10.0,3.5
-10/1/2020,10/31/2020,"Johnson County, KS",Multi-Family (2-4 Unit),256250.0,320000.0,6.0,11.0,0.5
-10/1/2019,10/31/2019,"Johnson County, KS",Multi-Family (2-4 Unit),350000.0,299000.0,7.0,3.0,1.0
-9/1/2019,9/30/2019,"Johnson County, KS",Multi-Family (2-4 Unit),250000.0,315000.0,5.0,12.0,2.2
-5/1/2020,5/31/2020,"Johnson County, KS",Townhouse,202500.0,339000.0,70.0,66.0,1.0
-5/1/2018,5/31/2018,"Johnson County, KS",Condo/Co-op,157000.0,297750.0,27.0,21.0,0.7
-3/1/2018,3/31/2018,"Johnson County, KS",Condo/Co-op,126500.0,299500.0,20.0,18.0,1.2
-4/1/2017,4/30/2017,"Johnson County, KS",Townhouse,153000.0,279900.0,71.0,88.0,1.4
-9/1/2020,9/30/2020,"Johnson County, KS",All Residential,338050.0,350000.0,1174.0,1162.0,1.3
-9/1/2015,9/30/2015,"Johnson County, KS",Condo/Co-op,102000.0,250000.0,23.0,15.0,1.9
-10/1/2017,10/31/2017,"Johnson County, KS",All Residential,260000.0,279900.0,907.0,943.0,2.6
-8/1/2014,8/31/2014,"Johnson County, KS",Multi-Family (2-4 Unit),141625.0,224900.0,2.0,1.0,18.0
-11/1/2013,11/30/2013,"Johnson County, KS",Condo/Co-op,106250.0,219900.0,14.0,7.0,3.6
-1/1/2012,1/31/2012,"Johnson County, KS",Multi-Family (2-4 Unit),235250.0,199250.0,4.0,6.0,7.3
-5/1/2016,5/31/2016,"Johnson County, KS",Townhouse,157000.0,255000.0,95.0,101.0,1.7
-3/1/2023,3/31/2023,"Johnson County, KS",Single Family Residential,436000.0,420000.0,542.0,628.0,1.7
-2/1/2019,2/28/2019,"Johnson County, KS",All Residential,268900.0,309725.0,579.0,792.0,3.3
-5/1/2019,5/31/2019,"Johnson County, KS",Townhouse,189500.0,310000.0,65.0,85.0,1.7
-9/1/2019,9/30/2019,"Johnson County, KS",All Residential,285000.0,315000.0,894.0,1055.0,2.6
-2/1/2014,2/28/2014,"Johnson County, KS",Townhouse,128750.0,230000.0,42.0,63.0,5.4
-10/1/2012,10/31/2012,"Johnson County, KS",All Residential,205750.0,219975.0,706.0,806.0,5.3
-1/1/2017,1/31/2017,"Johnson County, KS",All Residential,260000.0,269975.0,530.0,712.0,3.5
-6/1/2019,6/30/2019,"Johnson County, KS",Townhouse,196225.0,299500.0,92.0,105.0,1.3
-11/1/2020,11/30/2020,"Johnson County, KS",Townhouse,202500.0,329000.0,66.0,52.0,0.8
-1/1/2016,1/31/2016,"Johnson County, KS",All Residential,225000.0,264950.0,528.0,722.0,4.6
-10/1/2016,10/31/2016,"Johnson County, KS",Single Family Residential,265000.0,255000.0,791.0,832.0,2.9
-12/1/2021,12/31/2021,"Johnson County, KS",Multi-Family (2-4 Unit),345000.0,370000.0,13.0,7.0,0.3
-5/1/2016,5/31/2016,"Johnson County, KS",Single Family Residential,262000.0,255000.0,1087.0,1199.0,2.4
-12/1/2020,12/31/2020,"Johnson County, KS",Multi-Family (2-4 Unit),254500.0,319900.0,4.0,6.0,0.8
-10/1/2021,10/31/2021,"Johnson County, KS",Multi-Family (2-4 Unit),370000.0,350000.0,6.0,6.0,0.8
-5/1/2020,5/31/2020,"Johnson County, KS",All Residential,304051.0,339000.0,940.0,1225.0,1.9
-8/1/2020,8/31/2020,"Johnson County, KS",Condo/Co-op,145000.0,335000.0,23.0,11.0,0.9
-7/1/2015,7/31/2015,"Johnson County, KS",Single Family Residential,245000.0,237950.0,1153.0,1018.0,2.8
-2/1/2013,2/28/2013,"Johnson County, KS",Single Family Residential,210000.0,214475.0,483.0,807.0,6.3
-3/1/2018,3/31/2018,"Johnson County, KS",All Residential,280000.0,299500.0,835.0,1371.0,2.5
-8/1/2017,8/31/2017,"Johnson County, KS",All Residential,260430.0,250000.0,1122.0,1047.0,2.1
-9/1/2013,9/30/2013,"Johnson County, KS",Townhouse,122500.0,215000.0,63.0,60.0,4.0
-4/1/2016,4/30/2016,"Johnson County, KS",All Residential,250000.0,275000.0,1002.0,1491.0,2.8
-9/1/2018,9/30/2018,"Johnson County, KS",Condo/Co-op,122500.0,300000.0,22.0,22.0,1.9
-2/1/2020,2/29/2020,"Johnson County, KS",Single Family Residential,307500.0,341000.0,544.0,839.0,2.8
-5/1/2013,5/31/2013,"Johnson County, KS",Single Family Residential,219000.0,214950.0,1096.0,1312.0,3.4
-9/1/2021,9/30/2021,"Johnson County, KS",Townhouse,220000.0,360000.0,71.0,65.0,0.9
-1/1/2023,1/31/2023,"Johnson County, KS",Multi-Family (2-4 Unit),307500.0,425000.0,2.0,4.0,2.0
-5/1/2022,5/31/2022,"Johnson County, KS",Townhouse,250000.0,399950.0,63.0,84.0,1.2
-3/1/2020,3/31/2020,"Johnson County, KS",Condo/Co-op,131000.0,320000.0,21.0,26.0,1.3
-2/1/2012,2/29/2012,"Johnson County, KS",Single Family Residential,184400.0,207250.0,424.0,788.0,7.7
-12/1/2016,12/31/2016,"Johnson County, KS",All Residential,250000.0,261500.0,845.0,418.0,2.2
-11/1/2015,11/30/2015,"Johnson County, KS",All Residential,238200.0,244975.0,648.0,604.0,4.5
-1/1/2018,1/31/2018,"Johnson County, KS",Single Family Residential,280000.0,276250.0,519.0,664.0,3.1
-1/1/2015,1/31/2015,"Johnson County, KS",All Residential,217500.0,243900.0,510.0,783.0,5.6
-3/1/2020,3/31/2020,"Johnson County, KS",Multi-Family (2-4 Unit),280000.0,320000.0,6.0,4.0,0.7
-11/1/2020,11/30/2020,"Johnson County, KS",Single Family Residential,349500.0,329000.0,918.0,645.0,1.4
-9/1/2012,9/30/2012,"Johnson County, KS",Condo/Co-op,88720.0,208950.0,18.0,8.0,3.9
-5/1/2017,5/31/2017,"Johnson County, KS",Condo/Co-op,117000.0,269997.0,21.0,22.0,2.2
-5/1/2012,5/31/2012,"Johnson County, KS",All Residential,201000.0,200000.0,951.0,1144.0,4.7
-4/1/2014,4/30/2014,"Johnson County, KS",All Residential,215000.0,239500.0,887.0,1383.0,4.4
-2/1/2015,2/28/2015,"Johnson County, KS",Multi-Family (2-4 Unit),110000.0,239950.0,3.0,6.0,8.0
-9/1/2017,9/30/2017,"Johnson County, KS",Single Family Residential,263550.0,265000.0,844.0,990.0,2.6
-9/1/2020,9/30/2020,"Johnson County, KS",Multi-Family (2-4 Unit),251400.0,350000.0,6.0,8.0,0.7
-10/1/2018,10/31/2018,"Johnson County, KS",Condo/Co-op,123500.0,294950.0,18.0,22.0,2.1
-1/1/2020,1/31/2020,"Johnson County, KS",Townhouse,165500.0,329900.0,39.0,44.0,2.0
-4/1/2021,4/30/2021,"Johnson County, KS",Multi-Family (2-4 Unit),382500.0,374600.0,2.0,12.0,5.5
-3/1/2019,3/31/2019,"Johnson County, KS",Single Family Residential,310000.0,310000.0,681.0,1167.0,2.8
-7/1/2016,7/31/2016,"Johnson County, KS",Multi-Family (2-4 Unit),200000.0,250000.0,9.0,6.0,1.1
-3/1/2014,3/31/2014,"Johnson County, KS",Condo/Co-op,100000.0,229000.0,11.0,29.0,5.8
-8/1/2016,8/31/2016,"Johnson County, KS",Condo/Co-op,105850.0,254950.0,22.0,24.0,2.0
-12/1/2022,12/31/2022,"Johnson County, KS",Townhouse,233450.0,400000.0,42.0,24.0,0.8
-8/1/2022,8/31/2022,"Johnson County, KS",Single Family Residential,425000.0,379900.0,939.0,811.0,1.3
-4/1/2018,4/30/2018,"Johnson County, KS",Single Family Residential,297000.0,303250.0,856.0,1285.0,2.4
-7/1/2012,7/31/2012,"Johnson County, KS",Townhouse,140000.0,210000.0,57.0,68.0,5.5
-8/1/2013,8/31/2013,"Johnson County, KS",Condo/Co-op,94500.0,219950.0,16.0,16.0,3.8
-3/1/2016,3/31/2016,"Johnson County, KS",Condo/Co-op,117000.0,275000.0,17.0,16.0,2.2
-5/1/2021,5/31/2021,"Johnson County, KS",Condo/Co-op,185000.0,365000.0,17.0,17.0,0.8
-3/1/2017,3/31/2017,"Johnson County, KS",Townhouse,159950.0,298000.0,63.0,69.0,1.4
-12/1/2022,12/31/2022,"Johnson County, KS",Condo/Co-op,190000.0,400000.0,11.0,3.0,2.1
-6/1/2019,6/30/2019,"Johnson County, KS",Condo/Co-op,145500.0,299500.0,25.0,15.0,1.2
-3/1/2012,3/31/2012,"Johnson County, KS",Townhouse,134000.0,209950.0,47.0,82.0,6.9
-3/1/2021,3/31/2021,"Johnson County, KS",Multi-Family (2-4 Unit),350000.0,369000.0,5.0,12.0,1.2
-6/1/2018,6/30/2018,"Johnson County, KS",Townhouse,184500.0,289500.0,86.0,85.0,1.7
-3/1/2015,3/31/2015,"Johnson County, KS",Townhouse,140000.0,240000.0,52.0,72.0,4.3
-6/1/2015,6/30/2015,"Johnson County, KS",All Residential,246000.0,245000.0,1315.0,1304.0,2.8
-7/1/2012,7/31/2012,"Johnson County, KS",All Residential,201000.0,210000.0,942.0,982.0,4.5
-7/1/2020,7/31/2020,"Johnson County, KS",Condo/Co-op,163800.0,325000.0,17.0,29.0,1.3
-3/1/2022,3/31/2022,"Johnson County, KS",Condo/Co-op,180000.0,388450.0,19.0,15.0,0.4
-6/1/2014,6/30/2014,"Johnson County, KS",Condo/Co-op,106428.0,238500.0,12.0,27.0,7.0
-3/1/2012,3/31/2012,"Johnson County, KS",Condo/Co-op,64650.0,209950.0,16.0,18.0,5.6
-4/1/2020,4/30/2020,"Johnson County, KS",Multi-Family (2-4 Unit),255000.0,312000.0,4.0,5.0,1.3
-7/1/2022,7/31/2022,"Johnson County, KS",Townhouse,243500.0,399900.0,64.0,75.0,1.2
-1/1/2014,1/31/2014,"Johnson County, KS",Multi-Family (2-4 Unit),124500.0,227000.0,5.0,15.0,6.8
-3/1/2013,3/31/2013,"Johnson County, KS",Single Family Residential,217000.0,215000.0,685.0,1017.0,4.7
-2/1/2021,2/28/2021,"Johnson County, KS",All Residential,338000.0,379950.0,636.0,799.0,1.7
-11/1/2019,11/30/2019,"Johnson County, KS",Multi-Family (2-4 Unit),308500.0,320000.0,3.0,1.0,1.3
-1/1/2022,1/31/2022,"Johnson County, KS",All Residential,387500.0,379950.0,526.0,649.0,1.5
-2/1/2023,2/28/2023,"Johnson County, KS",All Residential,399900.0,415000.0,491.0,564.0,2.2
-3/1/2021,3/31/2021,"Johnson County, KS",All Residential,375000.0,369000.0,795.0,1251.0,1.5
-6/1/2014,6/30/2014,"Johnson County, KS",All Residential,230000.0,238500.0,1241.0,1308.0,3.2
-12/1/2012,12/31/2012,"Johnson County, KS",Condo/Co-op,93750.0,213100.0,8.0,10.0,6.3
-9/1/2021,9/30/2021,"Johnson County, KS",Single Family Residential,371250.0,360000.0,1002.0,880.0,1.2
-7/1/2019,7/31/2019,"Johnson County, KS",Single Family Residential,312250.0,285000.0,1116.0,1055.0,2.0
-7/1/2015,7/31/2015,"Johnson County, KS",Condo/Co-op,108525.0,237950.0,22.0,20.0,2.6
-8/1/2018,8/31/2018,"Johnson County, KS",Single Family Residential,295000.0,279000.0,1025.0,1074.0,2.3
-5/1/2020,5/31/2020,"Johnson County, KS",Multi-Family (2-4 Unit),210000.0,339000.0,9.0,7.0,0.4
-1/1/2013,1/31/2013,"Johnson County, KS",Condo/Co-op,89000.0,210000.0,11.0,22.0,5.2
-6/1/2017,6/30/2017,"Johnson County, KS",Multi-Family (2-4 Unit),200250.0,269950.0,4.0,10.0,3.0
-12/1/2019,12/31/2019,"Johnson County, KS",Single Family Residential,310000.0,300000.0,736.0,369.0,2.1
-1/1/2022,1/31/2022,"Johnson County, KS",Multi-Family (2-4 Unit),386250.0,379950.0,10.0,5.0,0.3
-8/1/2018,8/31/2018,"Johnson County, KS",Townhouse,175000.0,279000.0,97.0,85.0,1.6
-3/1/2013,3/31/2013,"Johnson County, KS",Townhouse,123900.0,215000.0,53.0,80.0,4.6
-1/1/2023,1/31/2023,"Johnson County, KS",Townhouse,264015.0,425000.0,24.0,43.0,1.6
-4/1/2014,4/30/2014,"Johnson County, KS",Multi-Family (2-4 Unit),187000.0,239500.0,10.0,19.0,3.9
-6/1/2013,6/30/2013,"Johnson County, KS",Townhouse,134500.0,229000.0,74.0,82.0,3.8
-10/1/2016,10/31/2016,"Johnson County, KS",Condo/Co-op,110500.0,255000.0,20.0,19.0,2.0
-1/1/2019,1/31/2019,"Johnson County, KS",Townhouse,180000.0,309000.0,41.0,62.0,2.5
-6/1/2021,6/30/2021,"Johnson County, KS",Single Family Residential,385000.0,350000.0,1224.0,1202.0,1.1
-11/1/2012,11/30/2012,"Johnson County, KS",Single Family Residential,214500.0,196000.0,637.0,566.0,4.8
-7/1/2022,7/31/2022,"Johnson County, KS",All Residential,395000.0,399900.0,1046.0,1001.0,1.3
-6/1/2014,6/30/2014,"Johnson County, KS",Multi-Family (2-4 Unit),196750.0,238500.0,11.0,9.0,3.2
-12/1/2012,12/31/2012,"Johnson County, KS",Townhouse,118375.0,213100.0,50.0,37.0,3.9
-3/1/2014,3/31/2014,"Johnson County, KS",All Residential,200000.0,229000.0,632.0,1241.0,5.6
-1/1/2012,1/31/2012,"Johnson County, KS",Single Family Residential,200000.0,199250.0,379.0,627.0,7.9
-10/1/2016,10/31/2016,"Johnson County, KS",All Residential,254950.0,255000.0,887.0,923.0,2.8
-6/1/2016,6/30/2016,"Johnson County, KS",Townhouse,146750.0,254950.0,96.0,104.0,1.9
-2/1/2023,2/28/2023,"Johnson County, KS",Townhouse,260000.0,415000.0,41.0,38.0,0.9
-12/1/2018,12/31/2018,"Johnson County, KS",Condo/Co-op,176000.0,295200.0,11.0,9.0,2.5
-1/1/2016,1/31/2016,"Johnson County, KS",Multi-Family (2-4 Unit),159000.0,264950.0,6.0,7.0,2.5
-7/1/2015,7/31/2015,"Johnson County, KS",All Residential,235000.0,237950.0,1245.0,1126.0,2.8
-9/1/2022,9/30/2022,"Johnson County, KS",Single Family Residential,409900.0,395000.0,811.0,780.0,1.6
-8/1/2021,8/31/2021,"Johnson County, KS",Single Family Residential,377000.0,350000.0,1119.0,959.0,1.1
-12/1/2019,12/31/2019,"Johnson County, KS",Townhouse,212500.0,300000.0,56.0,40.0,1.6
-4/1/2019,4/30/2019,"Johnson County, KS",Multi-Family (2-4 Unit),238125.0,325000.0,4.0,5.0,1.3
-10/1/2012,10/31/2012,"Johnson County, KS",Multi-Family (2-4 Unit),184000.0,219975.0,5.0,5.0,4.0
-9/1/2015,9/30/2015,"Johnson County, KS",All Residential,230000.0,250000.0,901.0,987.0,3.6
-3/1/2015,3/31/2015,"Johnson County, KS",Single Family Residential,230000.0,240000.0,811.0,1151.0,3.9
-1/1/2020,1/31/2020,"Johnson County, KS",Single Family Residential,319950.0,329900.0,512.0,641.0,2.9
-11/1/2018,11/30/2018,"Johnson County, KS",All Residential,281527.0,289700.0,877.0,679.0,2.4
-9/1/2017,9/30/2017,"Johnson County, KS",Multi-Family (2-4 Unit),237750.0,265000.0,6.0,3.0,1.8
-7/1/2022,7/31/2022,"Johnson County, KS",Single Family Residential,405000.0,399900.0,966.0,908.0,1.3
-10/1/2017,10/31/2017,"Johnson County, KS",Multi-Family (2-4 Unit),227000.0,279900.0,9.0,11.0,1.2
-5/1/2020,5/31/2020,"Johnson County, KS",Single Family Residential,316750.0,339000.0,846.0,1139.0,2.0
-7/1/2014,7/31/2014,"Johnson County, KS",Condo/Co-op,107500.0,232750.0,19.0,18.0,4.3
-12/1/2016,12/31/2016,"Johnson County, KS",Townhouse,152000.0,261500.0,61.0,37.0,1.6
-7/1/2015,7/31/2015,"Johnson County, KS",Townhouse,125000.0,237950.0,65.0,80.0,3.4
-2/1/2012,2/29/2012,"Johnson County, KS",Townhouse,115000.0,207250.0,31.0,65.0,10.1
-7/1/2021,7/31/2021,"Johnson County, KS",Single Family Residential,385000.0,339950.0,1156.0,1163.0,1.2
-5/1/2022,5/31/2022,"Johnson County, KS",Multi-Family (2-4 Unit),377500.0,399950.0,4.0,5.0,1.8
-2/1/2022,2/28/2022,"Johnson County, KS",All Residential,405500.0,395000.0,553.0,810.0,1.5
-10/1/2019,10/31/2019,"Johnson County, KS",All Residential,295000.0,299000.0,939.0,911.0,2.3
-4/1/2017,4/30/2017,"Johnson County, KS",Single Family Residential,275000.0,279900.0,823.0,1241.0,2.6
-6/1/2017,6/30/2017,"Johnson County, KS",Condo/Co-op,124250.0,269950.0,30.0,26.0,1.3
-6/1/2021,6/30/2021,"Johnson County, KS",Townhouse,245000.0,350000.0,83.0,87.0,0.7
-7/1/2022,7/31/2022,"Johnson County, KS",Condo/Co-op,235000.0,399900.0,11.0,15.0,0.6
-10/1/2015,10/31/2015,"Johnson County, KS",Condo/Co-op,93500.0,249250.0,16.0,25.0,3.2
-4/1/2013,4/30/2013,"Johnson County, KS",All Residential,203000.0,220000.0,801.0,1341.0,5.0
-8/1/2017,8/31/2017,"Johnson County, KS",Single Family Residential,274999.0,250000.0,1009.0,915.0,2.1
-4/1/2014,4/30/2014,"Johnson County, KS",Condo/Co-op,96515.0,239500.0,19.0,14.0,3.1
-10/1/2022,10/31/2022,"Johnson County, KS",Townhouse,255000.0,392500.0,51.0,54.0,1.2
-2/1/2021,2/28/2021,"Johnson County, KS",Single Family Residential,359700.0,379950.0,574.0,731.0,1.8
-2/1/2016,2/29/2016,"Johnson County, KS",Condo/Co-op,109625.0,261050.0,8.0,20.0,5.8
-2/1/2020,2/29/2020,"Johnson County, KS",All Residential,295000.0,341000.0,601.0,930.0,2.7
-10/1/2013,10/31/2013,"Johnson County, KS",Condo/Co-op,106500.0,220000.0,6.0,18.0,9.7
-12/1/2022,12/31/2022,"Johnson County, KS",Single Family Residential,425000.0,400000.0,567.0,331.0,1.9
-5/1/2019,5/31/2019,"Johnson County, KS",Multi-Family (2-4 Unit),233000.0,310000.0,8.0,8.0,0.6
-9/1/2015,9/30/2015,"Johnson County, KS",Multi-Family (2-4 Unit),159750.0,250000.0,4.0,4.0,4.0
-2/1/2015,2/28/2015,"Johnson County, KS",All Residential,217475.0,239950.0,532.0,897.0,5.9
-2/1/2022,2/28/2022,"Johnson County, KS",Townhouse,227000.0,395000.0,45.0,50.0,1.2
-12/1/2021,12/31/2021,"Johnson County, KS",All Residential,375000.0,370000.0,920.0,502.0,0.8
-11/1/2022,11/30/2022,"Johnson County, KS",All Residential,405000.0,390000.0,653.0,488.0,1.9
-6/1/2015,6/30/2015,"Johnson County, KS",Townhouse,148000.0,245000.0,81.0,67.0,2.7
-7/1/2012,7/31/2012,"Johnson County, KS",Single Family Residential,214500.0,210000.0,864.0,889.0,4.4
-8/1/2013,8/31/2013,"Johnson County, KS",Townhouse,130000.0,219950.0,67.0,78.0,4.0
-4/1/2019,4/30/2019,"Johnson County, KS",Townhouse,205500.0,325000.0,54.0,79.0,2.0
-8/1/2021,8/31/2021,"Johnson County, KS",Multi-Family (2-4 Unit),295000.0,350000.0,10.0,7.0,0.7
-8/1/2021,8/31/2021,"Johnson County, KS",Townhouse,225000.0,350000.0,83.0,90.0,0.8
-5/1/2013,5/31/2013,"Johnson County, KS",All Residential,211750.0,214950.0,1182.0,1443.0,3.5
-1/1/2015,1/31/2015,"Johnson County, KS",Townhouse,132000.0,243900.0,43.0,64.0,4.6
-11/1/2015,11/30/2015,"Johnson County, KS",Single Family Residential,250000.0,244975.0,586.0,538.0,4.6
-4/1/2022,4/30/2022,"Johnson County, KS",Multi-Family (2-4 Unit),353000.0,400000.0,4.0,7.0,1.0
-1/1/2017,1/31/2017,"Johnson County, KS",Single Family Residential,270000.0,269975.0,470.0,627.0,3.6
-9/1/2015,9/30/2015,"Johnson County, KS",Single Family Residential,240000.0,250000.0,810.0,898.0,3.7
-12/1/2018,12/31/2018,"Johnson County, KS",Townhouse,185500.0,295200.0,64.0,35.0,1.6
-8/1/2013,8/31/2013,"Johnson County, KS",Single Family Residential,229000.0,219950.0,967.0,959.0,3.6
-3/1/2017,3/31/2017,"Johnson County, KS",Multi-Family (2-4 Unit),159954.0,298000.0,4.0,8.0,1.5
-10/1/2014,10/31/2014,"Johnson County, KS",All Residential,215000.0,225000.0,850.0,817.0,4.1
-10/1/2015,10/31/2015,"Johnson County, KS",Multi-Family (2-4 Unit),145750.0,249250.0,2.0,2.0,6.5
-11/1/2020,11/30/2020,"Johnson County, KS",Multi-Family (2-4 Unit),237012.5,329000.0,10.0,5.0,0.2
-5/1/2021,5/31/2021,"Johnson County, KS",Townhouse,262500.0,365000.0,74.0,73.0,0.5
-9/1/2014,9/30/2014,"Johnson County, KS",All Residential,220000.0,225000.0,835.0,926.0,4.5
-12/1/2016,12/31/2016,"Johnson County, KS",Condo/Co-op,138000.0,261500.0,11.0,11.0,3.3
-4/1/2015,4/30/2015,"Johnson County, KS",Condo/Co-op,79925.0,245000.0,12.0,21.0,6.2
-7/1/2017,7/31/2017,"Johnson County, KS",All Residential,268800.0,265000.0,1155.0,1136.0,2.1
-9/1/2019,9/30/2019,"Johnson County, KS",Single Family Residential,300000.0,315000.0,801.0,942.0,2.7
-6/1/2015,6/30/2015,"Johnson County, KS",Single Family Residential,256500.0,245000.0,1213.0,1208.0,2.8
-2/1/2022,2/28/2022,"Johnson County, KS",Condo/Co-op,174000.0,395000.0,14.0,20.0,0.9
-9/1/2016,9/30/2016,"Johnson County, KS",All Residential,247500.0,260000.0,1010.0,988.0,2.5
-3/1/2023,3/31/2023,"Johnson County, KS",All Residential,420000.0,420000.0,591.0,697.0,1.7
-11/1/2016,11/30/2016,"Johnson County, KS",All Residential,254000.0,250000.0,821.0,678.0,2.7
-7/1/2018,7/31/2018,"Johnson County, KS",Condo/Co-op,139500.0,274900.0,20.0,14.0,1.3
-1/1/2015,1/31/2015,"Johnson County, KS",Single Family Residential,228250.0,243900.0,456.0,698.0,5.7
-11/1/2017,11/30/2017,"Johnson County, KS",Multi-Family (2-4 Unit),206000.0,267950.0,6.0,47.0,1.3
-12/1/2015,12/31/2015,"Johnson County, KS",Single Family Residential,240000.0,239900.0,705.0,462.0,3.3
-6/1/2022,6/30/2022,"Johnson County, KS",Multi-Family (2-4 Unit),320000.0,399900.0,7.0,12.0,1.3
-2/1/2017,2/28/2017,"Johnson County, KS",Condo/Co-op,136000.0,285000.0,12.0,21.0,2.8
-6/1/2012,6/30/2012,"Johnson County, KS",Single Family Residential,229550.0,219000.0,920.0,995.0,4.3
-12/1/2018,12/31/2018,"Johnson County, KS",Multi-Family (2-4 Unit),265000.0,295200.0,6.0,11.0,1.2
-9/1/2021,9/30/2021,"Johnson County, KS",Condo/Co-op,145000.0,360000.0,25.0,21.0,0.8
-6/1/2014,6/30/2014,"Johnson County, KS",Townhouse,162500.0,238500.0,75.0,91.0,3.2
-3/1/2022,3/31/2022,"Johnson County, KS",Townhouse,252500.0,388450.0,52.0,77.0,1.1
-12/1/2020,12/31/2020,"Johnson County, KS",Townhouse,203500.0,319900.0,63.0,41.0,0.6
-1/1/2016,1/31/2016,"Johnson County, KS",Condo/Co-op,117500.0,264950.0,14.0,14.0,3.1
-4/1/2012,4/30/2012,"Johnson County, KS",Multi-Family (2-4 Unit),145500.0,215000.0,4.0,8.0,6.3
-5/1/2012,5/31/2012,"Johnson County, KS",Single Family Residential,211500.0,200000.0,864.0,1041.0,4.7
-1/1/2022,1/31/2022,"Johnson County, KS",Townhouse,230000.0,379950.0,43.0,59.0,1.1
-4/1/2020,4/30/2020,"Johnson County, KS",Townhouse,219000.0,312000.0,64.0,63.0,1.2
-3/1/2014,3/31/2014,"Johnson County, KS",Multi-Family (2-4 Unit),142750.0,229000.0,8.0,7.0,3.8
-9/1/2021,9/30/2021,"Johnson County, KS",All Residential,359500.0,360000.0,1100.0,974.0,1.2
-12/1/2012,12/31/2012,"Johnson County, KS",All Residential,215500.0,213100.0,702.0,456.0,4.1
-4/1/2020,4/30/2020,"Johnson County, KS",All Residential,320000.0,312000.0,891.0,925.0,1.9
-11/1/2021,11/30/2021,"Johnson County, KS",All Residential,355750.0,360000.0,952.0,648.0,1.0
-4/1/2017,4/30/2017,"Johnson County, KS",Condo/Co-op,128250.0,279900.0,24.0,32.0,1.7
-2/1/2016,2/29/2016,"Johnson County, KS",All Residential,230000.0,261050.0,559.0,922.0,4.2
-9/1/2016,9/30/2016,"Johnson County, KS",Condo/Co-op,131000.0,260000.0,17.0,19.0,2.9
-9/1/2019,9/30/2019,"Johnson County, KS",Townhouse,186975.0,315000.0,70.0,87.0,1.5
-12/1/2022,12/31/2022,"Johnson County, KS",All Residential,397000.0,400000.0,627.0,362.0,1.8
-12/1/2017,12/31/2017,"Johnson County, KS",Single Family Residential,286000.0,274900.0,760.0,424.0,2.1
-10/1/2019,10/31/2019,"Johnson County, KS",Single Family Residential,310000.0,299000.0,832.0,813.0,2.5
-10/1/2013,10/31/2013,"Johnson County, KS",All Residential,223900.0,220000.0,841.0,907.0,4.2
-10/1/2018,10/31/2018,"Johnson County, KS",Townhouse,178000.0,294950.0,63.0,69.0,2.0
-7/1/2014,7/31/2014,"Johnson County, KS",Townhouse,140000.0,232750.0,65.0,97.0,4.1
-5/1/2018,5/31/2018,"Johnson County, KS",All Residential,285000.0,297750.0,1240.0,1436.0,2.0
-11/1/2019,11/30/2019,"Johnson County, KS",All Residential,302000.0,320000.0,779.0,664.0,2.5
-3/1/2017,3/31/2017,"Johnson County, KS",All Residential,267000.0,298000.0,921.0,1361.0,2.3
-1/1/2013,1/31/2013,"Johnson County, KS",All Residential,196393.0,210000.0,470.0,803.0,6.5
-2/1/2019,2/28/2019,"Johnson County, KS",Townhouse,164000.0,309725.0,45.0,55.0,2.1
-12/1/2018,12/31/2018,"Johnson County, KS",All Residential,285000.0,295200.0,688.0,437.0,2.7
-4/1/2015,4/30/2015,"Johnson County, KS",Single Family Residential,240000.0,245000.0,931.0,1377.0,3.7
-7/1/2017,7/31/2017,"Johnson County, KS",Single Family Residential,275000.0,265000.0,1055.0,1024.0,2.1
-3/1/2022,3/31/2022,"Johnson County, KS",Multi-Family (2-4 Unit),406000.0,388450.0,1.0,5.0,4.0
-12/1/2018,12/31/2018,"Johnson County, KS",Single Family Residential,299950.0,295200.0,607.0,382.0,2.9
-3/1/2018,3/31/2018,"Johnson County, KS",Townhouse,204500.0,299500.0,50.0,91.0,3.0
-11/1/2017,11/30/2017,"Johnson County, KS",Condo/Co-op,109500.0,267950.0,21.0,18.0,1.5
-4/1/2021,4/30/2021,"Johnson County, KS",Condo/Co-op,160000.0,374600.0,23.0,23.0,0.7
-2/1/2018,2/28/2018,"Johnson County, KS",Single Family Residential,280000.0,299550.0,531.0,761.0,3.0
-7/1/2022,7/31/2022,"Johnson County, KS",Multi-Family (2-4 Unit),300000.0,399900.0,5.0,3.0,1.2
-1/1/2018,1/31/2018,"Johnson County, KS",Multi-Family (2-4 Unit),180000.0,276250.0,10.0,15.0,1.4
-8/1/2015,8/31/2015,"Johnson County, KS",Single Family Residential,257500.0,235000.0,969.0,869.0,3.1
-2/1/2013,2/28/2013,"Johnson County, KS",Townhouse,120000.0,214475.0,37.0,66.0,6.1
-11/1/2022,11/30/2022,"Johnson County, KS",Townhouse,261500.0,390000.0,56.0,31.0,0.8
-10/1/2014,10/31/2014,"Johnson County, KS",Condo/Co-op,84800.0,225000.0,19.0,16.0,4.4
-1/1/2018,1/31/2018,"Johnson County, KS",Townhouse,151850.0,276250.0,34.0,47.0,3.4
-10/1/2022,10/31/2022,"Johnson County, KS",All Residential,400000.0,392500.0,778.0,657.0,1.7
-2/1/2015,2/28/2015,"Johnson County, KS",Condo/Co-op,82450.0,239950.0,6.0,19.0,10.7
-7/1/2014,7/31/2014,"Johnson County, KS",All Residential,225375.0,232750.0,1138.0,1228.0,3.5
-8/1/2018,8/31/2018,"Johnson County, KS",Multi-Family (2-4 Unit),197500.0,279000.0,5.0,7.0,1.6
-6/1/2016,6/30/2016,"Johnson County, KS",All Residential,261111.0,254950.0,1389.0,1395.0,2.1
-8/1/2020,8/31/2020,"Johnson County, KS",Single Family Residential,349250.0,335000.0,1120.0,1103.0,1.3
-9/1/2012,9/30/2012,"Johnson County, KS",Townhouse,147250.0,208950.0,50.0,54.0,5.6
-6/1/2012,6/30/2012,"Johnson County, KS",Condo/Co-op,87000.0,219000.0,7.0,18.0,12.3
-1/1/2017,1/31/2017,"Johnson County, KS",Townhouse,159000.0,269975.0,38.0,65.0,2.6
-5/1/2019,5/31/2019,"Johnson County, KS",All Residential,310000.0,310000.0,1271.0,1462.0,1.8
-2/1/2012,2/29/2012,"Johnson County, KS",Multi-Family (2-4 Unit),133000.0,207250.0,5.0,2.0,5.0
-11/1/2013,11/30/2013,"Johnson County, KS",All Residential,228750.0,219900.0,686.0,642.0,4.8
-8/1/2022,8/31/2022,"Johnson County, KS",Townhouse,243525.0,379900.0,54.0,57.0,1.3
-5/1/2016,5/31/2016,"Johnson County, KS",Condo/Co-op,106725.0,255000.0,20.0,17.0,1.8
-3/1/2013,3/31/2013,"Johnson County, KS",All Residential,210000.0,215000.0,755.0,1123.0,4.7
-8/1/2019,8/31/2019,"Johnson County, KS",Townhouse,181500.0,300000.0,85.0,88.0,1.3
-3/1/2020,3/31/2020,"Johnson County, KS",Single Family Residential,338113.5,320000.0,786.0,1046.0,2.0
-9/1/2014,9/30/2014,"Johnson County, KS",Multi-Family (2-4 Unit),175220.0,225000.0,8.0,9.0,4.3
-1/1/2020,1/31/2020,"Johnson County, KS",All Residential,305475.0,329900.0,565.0,710.0,2.8
-11/1/2019,11/30/2019,"Johnson County, KS",Single Family Residential,315000.0,320000.0,695.0,605.0,2.6
-5/1/2015,5/31/2015,"Johnson County, KS",Townhouse,145000.0,240000.0,92.0,93.0,2.6
-10/1/2019,10/31/2019,"Johnson County, KS",Townhouse,170000.0,299000.0,84.0,77.0,1.3
-5/1/2017,5/31/2017,"Johnson County, KS",Single Family Residential,285000.0,269997.0,1149.0,1223.0,1.9
-11/1/2022,11/30/2022,"Johnson County, KS",Single Family Residential,435000.0,390000.0,576.0,429.0,2.1
-12/1/2013,12/31/2013,"Johnson County, KS",Townhouse,130000.0,219900.0,57.0,30.0,3.5
-9/1/2022,9/30/2022,"Johnson County, KS",All Residential,395000.0,395000.0,893.0,862.0,1.6
-6/1/2012,6/30/2012,"Johnson County, KS",All Residential,220000.0,219000.0,995.0,1084.0,4.4
-6/1/2020,6/30/2020,"Johnson County, KS",All Residential,325000.0,345000.0,1185.0,1285.0,1.4
-8/1/2013,8/31/2013,"Johnson County, KS",All Residential,215000.0,219950.0,1059.0,1061.0,3.6
-6/1/2017,6/30/2017,"Johnson County, KS",Single Family Residential,300000.0,269950.0,1252.0,1331.0,1.8
-1/1/2016,1/31/2016,"Johnson County, KS",Townhouse,125500.0,264950.0,46.0,66.0,3.5
-4/1/2022,4/30/2022,"Johnson County, KS",Single Family Residential,425000.0,400000.0,783.0,1137.0,1.3
-5/1/2017,5/31/2017,"Johnson County, KS",Multi-Family (2-4 Unit),175000.0,269997.0,5.0,4.0,1.6
-6/1/2019,6/30/2019,"Johnson County, KS",Multi-Family (2-4 Unit),237000.0,299500.0,1.0,11.0,9.0
-3/1/2017,3/31/2017,"Johnson County, KS",Single Family Residential,280000.0,298000.0,835.0,1257.0,2.4
-6/1/2014,6/30/2014,"Johnson County, KS",Single Family Residential,240000.0,238500.0,1143.0,1181.0,3.2
-7/1/2013,7/31/2013,"Johnson County, KS",All Residential,222000.0,215000.0,1169.0,1153.0,3.4
-5/1/2013,5/31/2013,"Johnson County, KS",Multi-Family (2-4 Unit),180000.0,214950.0,5.0,11.0,6.2
-3/1/2012,3/31/2012,"Johnson County, KS",All Residential,193750.0,209950.0,670.0,1287.0,6.2
-10/1/2015,10/31/2015,"Johnson County, KS",Townhouse,147500.0,249250.0,70.0,54.0,2.6
-6/1/2013,6/30/2013,"Johnson County, KS",Condo/Co-op,125250.0,229000.0,20.0,15.0,3.4
-8/1/2014,8/31/2014,"Johnson County, KS",All Residential,228625.0,224900.0,988.0,991.0,3.8
-4/1/2014,4/30/2014,"Johnson County, KS",Townhouse,137250.0,239500.0,52.0,77.0,4.9
-9/1/2015,9/30/2015,"Johnson County, KS",Townhouse,142000.0,250000.0,64.0,70.0,3.2
-2/1/2022,2/28/2022,"Johnson County, KS",Multi-Family (2-4 Unit),390000.0,395000.0,6.0,4.0,0.5
-9/1/2018,9/30/2018,"Johnson County, KS",Multi-Family (2-4 Unit),215000.0,300000.0,5.0,8.0,2.0
-11/1/2020,11/30/2020,"Johnson County, KS",All Residential,329950.0,329000.0,1012.0,718.0,1.3
-1/1/2023,1/31/2023,"Johnson County, KS",All Residential,392500.0,425000.0,422.0,551.0,2.6
-12/1/2020,12/31/2020,"Johnson County, KS",All Residential,325000.0,319900.0,1008.0,584.0,1.1
-1/1/2022,1/31/2022,"Johnson County, KS",Condo/Co-op,180000.0,379950.0,9.0,15.0,0.8
-11/1/2021,11/30/2021,"Johnson County, KS",Condo/Co-op,157500.0,360000.0,22.0,16.0,0.7
-8/1/2016,8/31/2016,"Johnson County, KS",Single Family Residential,260000.0,254950.0,1012.0,894.0,2.4
-4/1/2013,4/30/2013,"Johnson County, KS",Townhouse,124900.0,220000.0,53.0,81.0,5.1
-11/1/2018,11/30/2018,"Johnson County, KS",Multi-Family (2-4 Unit),240000.0,289700.0,5.0,7.0,1.0
-10/1/2017,10/31/2017,"Johnson County, KS",Condo/Co-op,119250.0,279900.0,22.0,19.0,1.8
-9/1/2014,9/30/2014,"Johnson County, KS",Townhouse,143375.0,225000.0,64.0,69.0,3.9
-8/1/2017,8/31/2017,"Johnson County, KS",Multi-Family (2-4 Unit),197750.0,250000.0,9.0,12.0,2.0
-10/1/2018,10/31/2018,"Johnson County, KS",All Residential,270500.0,294950.0,960.0,935.0,2.5
-4/1/2019,4/30/2019,"Johnson County, KS",Single Family Residential,305424.5,325000.0,850.0,1357.0,2.5
-8/1/2019,8/31/2019,"Johnson County, KS",Multi-Family (2-4 Unit),244500.0,300000.0,10.0,9.0,0.5
-6/1/2013,6/30/2013,"Johnson County, KS",All Residential,221000.0,229000.0,1157.0,1268.0,3.6
-4/1/2016,4/30/2016,"Johnson County, KS",Single Family Residential,264900.0,275000.0,896.0,1368.0,2.9
-3/1/2016,3/31/2016,"Johnson County, KS",Single Family Residential,249000.0,275000.0,767.0,1283.0,3.1
-8/1/2022,8/31/2022,"Johnson County, KS",All Residential,414975.0,379900.0,1014.0,890.0,1.3
-11/1/2019,11/30/2019,"Johnson County, KS",Condo/Co-op,176500.0,320000.0,14.0,6.0,1.9
-2/1/2022,2/28/2022,"Johnson County, KS",Single Family Residential,431000.0,395000.0,488.0,736.0,1.6
-12/1/2015,12/31/2015,"Johnson County, KS",All Residential,233000.0,239900.0,769.0,517.0,3.3
-3/1/2023,3/31/2023,"Johnson County, KS",Townhouse,274000.0,420000.0,34.0,53.0,1.2
-8/1/2015,8/31/2015,"Johnson County, KS",Condo/Co-op,91875.0,235000.0,20.0,19.0,2.7
-8/1/2016,8/31/2016,"Johnson County, KS",Multi-Family (2-4 Unit),212500.0,254950.0,6.0,13.0,2.5
-3/1/2020,3/31/2020,"Johnson County, KS",Townhouse,185000.0,320000.0,69.0,87.0,1.2
-6/1/2013,6/30/2013,"Johnson County, KS",Single Family Residential,233000.0,229000.0,1061.0,1168.0,3.5
-2/1/2012,2/29/2012,"Johnson County, KS",All Residential,175500.0,207250.0,468.0,872.0,7.9
-11/1/2014,11/30/2014,"Johnson County, KS",Townhouse,131000.0,230000.0,51.0,50.0,4.1
-4/1/2012,4/30/2012,"Johnson County, KS",Single Family Residential,207250.0,215000.0,684.0,1093.0,5.8
-1/1/2012,1/31/2012,"Johnson County, KS",All Residential,189000.0,199250.0,419.0,702.0,8.1
-1/1/2021,1/31/2021,"Johnson County, KS",Single Family Residential,352000.0,360000.0,600.0,748.0,1.8
-6/1/2016,6/30/2016,"Johnson County, KS",Condo/Co-op,97500.0,254950.0,15.0,29.0,2.9
-5/1/2021,5/31/2021,"Johnson County, KS",Multi-Family (2-4 Unit),320000.0,365000.0,7.0,10.0,0.6
-10/1/2021,10/31/2021,"Johnson County, KS",Condo/Co-op,162000.0,350000.0,14.0,18.0,1.3
-11/1/2016,11/30/2016,"Johnson County, KS",Townhouse,154000.0,250000.0,65.0,67.0,1.8
-9/1/2012,9/30/2012,"Johnson County, KS",All Residential,199950.0,208950.0,666.0,784.0,5.9
-9/1/2016,9/30/2016,"Johnson County, KS",Multi-Family (2-4 Unit),169500.0,260000.0,8.0,7.0,1.6
-8/1/2015,8/31/2015,"Johnson County, KS",Townhouse,142500.0,235000.0,79.0,76.0,2.7
-6/1/2020,6/30/2020,"Johnson County, KS",Multi-Family (2-4 Unit),277500.0,345000.0,4.0,7.0,1.0
-1/1/2019,1/31/2019,"Johnson County, KS",Single Family Residential,295500.0,309000.0,474.0,678.0,3.7
-9/1/2018,9/30/2018,"Johnson County, KS",Townhouse,178500.0,300000.0,78.0,63.0,1.8
-12/1/2014,12/31/2014,"Johnson County, KS",Condo/Co-op,113000.0,220000.0,15.0,8.0,3.7
-7/1/2018,7/31/2018,"Johnson County, KS",Single Family Residential,300000.0,274900.0,1072.0,1082.0,2.2
-5/1/2012,5/31/2012,"Johnson County, KS",Townhouse,143000.0,200000.0,67.0,84.0,5.2
-2/1/2014,2/28/2014,"Johnson County, KS",All Residential,195000.0,230000.0,494.0,801.0,6.1
-2/1/2018,2/28/2018,"Johnson County, KS",Townhouse,163000.0,299550.0,37.0,52.0,3.2
-1/1/2012,1/31/2012,"Johnson County, KS",Townhouse,100000.0,199250.0,33.0,55.0,8.9
-9/1/2014,9/30/2014,"Johnson County, KS",Single Family Residential,229125.0,225000.0,748.0,820.0,4.5
-7/1/2014,7/31/2014,"Johnson County, KS",Multi-Family (2-4 Unit),196500.0,232750.0,5.0,12.0,8.2
-6/1/2017,6/30/2017,"Johnson County, KS",All Residential,282500.0,269950.0,1372.0,1469.0,1.8
-9/1/2018,9/30/2018,"Johnson County, KS",Single Family Residential,276000.0,300000.0,731.0,916.0,3.3
-11/1/2015,11/30/2015,"Johnson County, KS",Multi-Family (2-4 Unit),233700.0,244975.0,2.0,4.0,6.5
-8/1/2017,8/31/2017,"Johnson County, KS",Condo/Co-op,114875.0,250000.0,26.0,28.0,1.5
-9/1/2014,9/30/2014,"Johnson County, KS",Condo/Co-op,90750.0,225000.0,15.0,28.0,6.2
-5/1/2019,5/31/2019,"Johnson County, KS",Condo/Co-op,131000.0,310000.0,29.0,31.0,1.2
-9/1/2022,9/30/2022,"Johnson County, KS",Condo/Co-op,200000.0,395000.0,11.0,16.0,1.5
-11/1/2021,11/30/2021,"Johnson County, KS",Townhouse,227000.0,360000.0,68.0,55.0,0.7
-12/1/2012,12/31/2012,"Johnson County, KS",Single Family Residential,229500.0,213100.0,635.0,407.0,4.1
-8/1/2014,8/31/2014,"Johnson County, KS",Condo/Co-op,116000.0,224900.0,15.0,24.0,5.5
-3/1/2019,3/31/2019,"Johnson County, KS",Condo/Co-op,127000.0,310000.0,15.0,29.0,2.1
-7/1/2019,7/31/2019,"Johnson County, KS",Townhouse,189000.0,285000.0,73.0,77.0,1.4
-11/1/2012,11/30/2012,"Johnson County, KS",Townhouse,138250.0,196000.0,40.0,49.0,5.8
-8/1/2016,8/31/2016,"Johnson County, KS",All Residential,247500.0,254950.0,1126.0,1006.0,2.3
-6/1/2021,6/30/2021,"Johnson County, KS",Condo/Co-op,189000.0,350000.0,24.0,25.0,1.0
-7/1/2019,7/31/2019,"Johnson County, KS",Condo/Co-op,159950.0,285000.0,18.0,20.0,1.9
-7/1/2019,7/31/2019,"Johnson County, KS",Multi-Family (2-4 Unit),250000.0,285000.0,7.0,5.0,1.0
-2/1/2014,2/28/2014,"Johnson County, KS",Condo/Co-op,100000.0,230000.0,7.0,15.0,7.0
-8/1/2014,8/31/2014,"Johnson County, KS",Townhouse,150000.0,224900.0,73.0,71.0,3.5
-1/1/2018,1/31/2018,"Johnson County, KS",All Residential,265000.0,276250.0,577.0,738.0,3.1
-12/1/2020,12/31/2020,"Johnson County, KS",Single Family Residential,340000.0,319900.0,914.0,524.0,1.2
-3/1/2019,3/31/2019,"Johnson County, KS",Multi-Family (2-4 Unit),295000.0,310000.0,8.0,6.0,0.4
-8/1/2021,8/31/2021,"Johnson County, KS",Condo/Co-op,157000.0,350000.0,23.0,23.0,1.0
-4/1/2014,4/30/2014,"Johnson County, KS",Single Family Residential,224250.0,239500.0,806.0,1273.0,4.4
-2/1/2023,2/28/2023,"Johnson County, KS",Single Family Residential,414513.0,415000.0,441.0,513.0,2.4
-6/1/2020,6/30/2020,"Johnson County, KS",Townhouse,195000.0,345000.0,88.0,65.0,0.7
-11/1/2017,11/30/2017,"Johnson County, KS",Single Family Residential,280500.0,267950.0,829.0,640.0,2.3
-7/1/2016,7/31/2016,"Johnson County, KS",Single Family Residential,266500.0,250000.0,1088.0,1077.0,2.4
-3/1/2014,3/31/2014,"Johnson County, KS",Single Family Residential,210000.0,229000.0,559.0,1121.0,5.7
-12/1/2014,12/31/2014,"Johnson County, KS",All Residential,235000.0,220000.0,712.0,433.0,3.8
-1/1/2021,1/31/2021,"Johnson County, KS",Townhouse,198000.0,360000.0,57.0,49.0,0.6
-6/1/2012,6/30/2012,"Johnson County, KS",Townhouse,139085.0,219000.0,66.0,63.0,4.9
-3/1/2012,3/31/2012,"Johnson County, KS",Multi-Family (2-4 Unit),60000.0,209950.0,3.0,4.0,8.0
-5/1/2012,5/31/2012,"Johnson County, KS",Condo/Co-op,83000.0,200000.0,15.0,14.0,5.7
-2/1/2020,2/29/2020,"Johnson County, KS",Townhouse,155555.0,341000.0,39.0,60.0,2.0
-6/1/2016,6/30/2016,"Johnson County, KS",Multi-Family (2-4 Unit),176000.0,254950.0,9.0,10.0,1.4
-11/1/2022,11/30/2022,"Johnson County, KS",Multi-Family (2-4 Unit),336000.0,390000.0,3.0,3.0,0.3
-8/1/2015,8/31/2015,"Johnson County, KS",Multi-Family (2-4 Unit),194000.0,235000.0,11.0,5.0,1.7
-5/1/2015,5/31/2015,"Johnson County, KS",Condo/Co-op,119000.0,240000.0,35.0,24.0,1.7
-8/1/2022,8/31/2022,"Johnson County, KS",Multi-Family (2-4 Unit),320000.0,379900.0,5.0,5.0,0.6
-9/1/2013,9/30/2013,"Johnson County, KS",Multi-Family (2-4 Unit),206250.0,215000.0,2.0,13.0,17.0
-7/1/2013,7/31/2013,"Johnson County, KS",Condo/Co-op,91000.0,215000.0,18.0,19.0,3.4
-2/1/2014,2/28/2014,"Johnson County, KS",Single Family Residential,210000.0,230000.0,439.0,717.0,6.2
-8/1/2017,8/31/2017,"Johnson County, KS",Townhouse,171250.0,250000.0,78.0,92.0,1.8
-3/1/2021,3/31/2021,"Johnson County, KS",Single Family Residential,389900.0,369000.0,731.0,1149.0,1.5
-11/1/2013,11/30/2013,"Johnson County, KS",Single Family Residential,240500.0,219900.0,628.0,593.0,4.7
-4/1/2013,4/30/2013,"Johnson County, KS",Condo/Co-op,84500.0,220000.0,18.0,23.0,4.0
-1/1/2014,1/31/2014,"Johnson County, KS",All Residential,193750.0,227000.0,512.0,688.0,5.5
-8/1/2019,8/31/2019,"Johnson County, KS",Condo/Co-op,194000.0,300000.0,17.0,20.0,2.0
-11/1/2014,11/30/2014,"Johnson County, KS",Multi-Family (2-4 Unit),176500.0,230000.0,6.0,7.0,4.7
-5/1/2014,5/31/2014,"Johnson County, KS",Townhouse,140000.0,230000.0,79.0,68.0,2.9
-4/1/2015,4/30/2015,"Johnson County, KS",Townhouse,143000.0,245000.0,75.0,97.0,3.2
-6/1/2013,6/30/2013,"Johnson County, KS",Multi-Family (2-4 Unit),156250.0,229000.0,2.0,3.0,15.0
-6/1/2012,6/30/2012,"Johnson County, KS",Multi-Family (2-4 Unit),137075.0,219000.0,2.0,8.0,11.5
-5/1/2013,5/31/2013,"Johnson County, KS",Condo/Co-op,88000.0,214950.0,11.0,21.0,6.7
-3/1/2019,3/31/2019,"Johnson County, KS",All Residential,290000.0,310000.0,775.0,1267.0,2.6
-8/1/2012,8/31/2012,"Johnson County, KS",Multi-Family (2-4 Unit),143950.0,209450.0,6.0,4.0,3.5
-9/1/2019,9/30/2019,"Johnson County, KS",Condo/Co-op,137050.0,315000.0,18.0,14.0,1.8
-7/1/2013,7/31/2013,"Johnson County, KS",Multi-Family (2-4 Unit),144000.0,215000.0,4.0,9.0,8.8
-7/1/2014,7/31/2014,"Johnson County, KS",Single Family Residential,235000.0,232750.0,1049.0,1101.0,3.4
-7/1/2012,7/31/2012,"Johnson County, KS",Condo/Co-op,100000.0,210000.0,17.0,19.0,4.8
-10/1/2017,10/31/2017,"Johnson County, KS",Townhouse,155000.0,279900.0,74.0,78.0,2.1
-7/1/2013,7/31/2013,"Johnson County, KS",Townhouse,150500.0,215000.0,64.0,67.0,4.2
-5/1/2012,5/31/2012,"Johnson County, KS",Multi-Family (2-4 Unit),107000.0,200000.0,5.0,5.0,3.8
-8/1/2015,8/31/2015,"Johnson County, KS",All Residential,240000.0,235000.0,1079.0,969.0,3.1
-12/1/2017,12/31/2017,"Johnson County, KS",All Residential,264200.0,274900.0,850.0,478.0,2.1
-8/1/2012,8/31/2012,"Johnson County, KS",All Residential,223000.0,209450.0,931.0,884.0,4.3
-7/1/2019,7/31/2019,"Johnson County, KS",All Residential,305000.0,285000.0,1214.0,1157.0,1.9
-7/1/2020,7/31/2020,"Johnson County, KS",Single Family Residential,348000.0,325000.0,1259.0,1205.0,1.2
-10/1/2014,10/31/2014,"Johnson County, KS",Multi-Family (2-4 Unit),148500.0,225000.0,4.0,8.0,8.5
-1/1/2013,1/31/2013,"Johnson County, KS",Multi-Family (2-4 Unit),185000.0,210000.0,1.0,7.0,25.0
-8/1/2020,8/31/2020,"Johnson County, KS",All Residential,334000.0,335000.0,1221.0,1201.0,1.2
-2/1/2018,2/28/2018,"Johnson County, KS",Condo/Co-op,119000.0,299550.0,11.0,14.0,2.1
-3/1/2023,3/31/2023,"Johnson County, KS",Condo/Co-op,180000.0,420000.0,11.0,9.0,1.4
-6/1/2020,6/30/2020,"Johnson County, KS",Single Family Residential,335000.0,345000.0,1074.0,1196.0,1.4
-11/1/2016,11/30/2016,"Johnson County, KS",Condo/Co-op,114000.0,250000.0,21.0,15.0,1.7
-12/1/2015,12/31/2015,"Johnson County, KS",Townhouse,152000.0,239900.0,45.0,35.0,3.4
-4/1/2019,4/30/2019,"Johnson County, KS",All Residential,295750.0,325000.0,922.0,1465.0,2.5
-10/1/2015,10/31/2015,"Johnson County, KS",Single Family Residential,247000.0,249250.0,777.0,816.0,3.7
-4/1/2021,4/30/2021,"Johnson County, KS",Single Family Residential,381000.0,374600.0,901.0,1273.0,1.4
-9/1/2020,9/30/2020,"Johnson County, KS",Single Family Residential,355000.0,350000.0,1075.0,1060.0,1.3
-7/1/2013,7/31/2013,"Johnson County, KS",Single Family Residential,233000.0,215000.0,1083.0,1058.0,3.3
-7/1/2016,7/31/2016,"Johnson County, KS",All Residential,259950.0,250000.0,1175.0,1177.0,2.4
-10/1/2020,10/31/2020,"Johnson County, KS",Single Family Residential,349450.0,320000.0,1052.0,1155.0,1.4
-2/1/2021,2/28/2021,"Johnson County, KS",Multi-Family (2-4 Unit),272500.0,379950.0,3.0,8.0,0.7
-12/1/2021,12/31/2021,"Johnson County, KS",Townhouse,230500.0,370000.0,62.0,41.0,0.7
-6/1/2017,6/30/2017,"Johnson County, KS",Townhouse,174975.0,269950.0,86.0,102.0,1.3
-11/1/2022,11/30/2022,"Johnson County, KS",Condo/Co-op,155750.0,390000.0,18.0,25.0,1.6
-4/1/2017,4/30/2017,"Johnson County, KS",All Residential,257000.0,279900.0,923.0,1367.0,2.5
-11/1/2018,11/30/2018,"Johnson County, KS",Single Family Residential,293000.0,289700.0,794.0,605.0,2.5
-9/1/2020,9/30/2020,"Johnson County, KS",Condo/Co-op,148500.0,350000.0,14.0,24.0,1.7
-10/1/2020,10/31/2020,"Johnson County, KS",Condo/Co-op,147500.0,320000.0,18.0,23.0,1.5
-2/1/2017,2/28/2017,"Johnson County, KS",Multi-Family (2-4 Unit),210000.0,285000.0,6.0,1.0,1.0
-7/1/2017,7/31/2017,"Johnson County, KS",Townhouse,178750.0,265000.0,72.0,76.0,1.7
-10/1/2014,10/31/2014,"Johnson County, KS",Single Family Residential,226650.0,225000.0,750.0,724.0,4.2
-4/1/2021,4/30/2021,"Johnson County, KS",Townhouse,270000.0,374600.0,66.0,85.0,0.7
-12/1/2014,12/31/2014,"Johnson County, KS",Multi-Family (2-4 Unit),270000.0,,7.0,,2.4
-7/1/2012,7/31/2012,"Johnson County, KS",Multi-Family (2-4 Unit),189250.0,210000.0,4.0,6.0,5.8
-4/1/2017,4/30/2017,"Johnson County, KS",Multi-Family (2-4 Unit),205000.0,279900.0,5.0,6.0,1.2
-5/1/2018,5/31/2018,"Johnson County, KS",Multi-Family (2-4 Unit),255000.0,297750.0,6.0,3.0,1.3
-8/1/2014,8/31/2014,"Johnson County, KS",Single Family Residential,240000.0,224900.0,898.0,895.0,3.8
-6/1/2022,6/30/2022,"Johnson County, KS",Townhouse,249975.0,399900.0,74.0,70.0,1.0
-4/1/2012,4/30/2012,"Johnson County, KS",Townhouse,125000.0,215000.0,55.0,80.0,6.1
-11/1/2020,11/30/2020,"Johnson County, KS",Condo/Co-op,140000.0,329000.0,18.0,16.0,1.0
-3/1/2013,3/31/2013,"Johnson County, KS",Condo/Co-op,92250.0,215000.0,12.0,22.0,5.8
-5/1/2017,5/31/2017,"Johnson County, KS",All Residential,270000.0,269997.0,1253.0,1331.0,1.9
-11/1/2018,11/30/2018,"Johnson County, KS",Townhouse,189500.0,289700.0,60.0,61.0,1.9
-4/1/2022,4/30/2022,"Johnson County, KS",All Residential,400000.0,400000.0,866.0,1232.0,1.2
-12/1/2019,12/31/2019,"Johnson County, KS",Multi-Family (2-4 Unit),142000.0,300000.0,3.0,5.0,1.3
-5/1/2021,5/31/2021,"Johnson County, KS",Single Family Residential,390000.0,365000.0,1024.0,1260.0,1.2
-5/1/2014,5/31/2014,"Johnson County, KS",All Residential,225000.0,230000.0,1103.0,1379.0,3.7
-1/1/2015,1/31/2015,"Johnson County, KS",Multi-Family (2-4 Unit),104250.0,243900.0,3.0,8.0,7.3
-7/1/2016,7/31/2016,"Johnson County, KS",Townhouse,166000.0,250000.0,63.0,77.0,2.8
-5/1/2014,5/31/2014,"Johnson County, KS",Single Family Residential,233250.0,230000.0,1001.0,1270.0,3.7
+3/1/2023,3/31/2023,"Johnson County, KS",Multi-Family (2-4 Unit),361750,420000,4,7,1.3
+3/1/2023,3/31/2023,"Johnson County, KS",Single Family Residential,436000,420000,542,628,1.7
+3/1/2023,3/31/2023,"Johnson County, KS",All Residential,420000,420000,591,697,1.7
+3/1/2023,3/31/2023,"Johnson County, KS",Townhouse,274000,420000,34,53,1.2
+3/1/2023,3/31/2023,"Johnson County, KS",Condo/Co-op,180000,420000,11,9,1.4
+2/1/2023,2/28/2023,"Johnson County, KS",Multi-Family (2-4 Unit),254750,415000,2,4,2
+2/1/2023,2/28/2023,"Johnson County, KS",Condo/Co-op,195700,415000,7,9,2.6
+2/1/2023,2/28/2023,"Johnson County, KS",All Residential,399900,415000,491,564,2.2
+2/1/2023,2/28/2023,"Johnson County, KS",Townhouse,260000,415000,41,38,0.9
+2/1/2023,2/28/2023,"Johnson County, KS",Single Family Residential,414513,415000,441,513,2.4
+1/1/2023,1/31/2023,"Johnson County, KS",Condo/Co-op,155000,425000,11,9,1.7
+1/1/2023,1/31/2023,"Johnson County, KS",Single Family Residential,405000,425000,385,495,2.7
+1/1/2023,1/31/2023,"Johnson County, KS",Multi-Family (2-4 Unit),307500,425000,2,4,2
+1/1/2023,1/31/2023,"Johnson County, KS",Townhouse,264015,425000,24,43,1.6
+1/1/2023,1/31/2023,"Johnson County, KS",All Residential,392500,425000,422,551,2.6
+12/1/2022,12/31/2022,"Johnson County, KS",Multi-Family (2-4 Unit),311000,400000,7,4,0.1
+12/1/2022,12/31/2022,"Johnson County, KS",Townhouse,233450,400000,42,24,0.8
+12/1/2022,12/31/2022,"Johnson County, KS",Condo/Co-op,190000,400000,11,3,2.1
+12/1/2022,12/31/2022,"Johnson County, KS",Single Family Residential,425000,400000,567,331,1.9
+12/1/2022,12/31/2022,"Johnson County, KS",All Residential,397000,400000,627,362,1.8
+11/1/2022,11/30/2022,"Johnson County, KS",All Residential,405000,390000,653,488,1.9
+11/1/2022,11/30/2022,"Johnson County, KS",Townhouse,261500,390000,56,31,0.8
+11/1/2022,11/30/2022,"Johnson County, KS",Single Family Residential,435000,390000,576,429,2.1
+11/1/2022,11/30/2022,"Johnson County, KS",Multi-Family (2-4 Unit),336000,390000,3,3,0.3
+11/1/2022,11/30/2022,"Johnson County, KS",Condo/Co-op,155750,390000,18,25,1.6
+10/1/2022,10/31/2022,"Johnson County, KS",Single Family Residential,415500,392500,715,583,1.8
+10/1/2022,10/31/2022,"Johnson County, KS",Condo/Co-op,171900,392500,9,17,1.9
+10/1/2022,10/31/2022,"Johnson County, KS",Multi-Family (2-4 Unit),475000,392500,3,3,1
+10/1/2022,10/31/2022,"Johnson County, KS",Townhouse,255000,392500,51,54,1.2
+10/1/2022,10/31/2022,"Johnson County, KS",All Residential,400000,392500,778,657,1.7
+9/1/2022,9/30/2022,"Johnson County, KS",Townhouse,275000,395000,67,62,1.1
+9/1/2022,9/30/2022,"Johnson County, KS",Multi-Family (2-4 Unit),457975,395000,4,4,0.3
+9/1/2022,9/30/2022,"Johnson County, KS",Single Family Residential,409900,395000,811,780,1.6
+9/1/2022,9/30/2022,"Johnson County, KS",All Residential,395000,395000,893,862,1.6
+9/1/2022,9/30/2022,"Johnson County, KS",Condo/Co-op,200000,395000,11,16,1.5
+8/1/2022,8/31/2022,"Johnson County, KS",Condo/Co-op,174750,379900,16,17,0.5
+8/1/2022,8/31/2022,"Johnson County, KS",Single Family Residential,425000,379900,939,811,1.3
+8/1/2022,8/31/2022,"Johnson County, KS",Townhouse,243525,379900,54,57,1.3
+8/1/2022,8/31/2022,"Johnson County, KS",All Residential,414975,379900,1014,890,1.3
+8/1/2022,8/31/2022,"Johnson County, KS",Multi-Family (2-4 Unit),320000,379900,5,5,0.6
+7/1/2022,7/31/2022,"Johnson County, KS",Townhouse,243500,399900,64,75,1.2
+7/1/2022,7/31/2022,"Johnson County, KS",All Residential,395000,399900,1046,1001,1.3
+7/1/2022,7/31/2022,"Johnson County, KS",Single Family Residential,405000,399900,966,908,1.3
+7/1/2022,7/31/2022,"Johnson County, KS",Condo/Co-op,235000,399900,11,15,0.6
+7/1/2022,7/31/2022,"Johnson County, KS",Multi-Family (2-4 Unit),300000,399900,5,3,1.2
+6/1/2022,6/30/2022,"Johnson County, KS",Condo/Co-op,192500,399900,24,14,0.3
+6/1/2022,6/30/2022,"Johnson County, KS",Single Family Residential,430000,399900,1101,1166,1.1
+6/1/2022,6/30/2022,"Johnson County, KS",All Residential,410000,399900,1206,1262,1.1
+6/1/2022,6/30/2022,"Johnson County, KS",Multi-Family (2-4 Unit),320000,399900,7,12,1.3
+6/1/2022,6/30/2022,"Johnson County, KS",Townhouse,249975,399900,74,70,1
+5/1/2022,5/31/2022,"Johnson County, KS",Condo/Co-op,171500,399950,12,18,1
+5/1/2022,5/31/2022,"Johnson County, KS",All Residential,415000,399950,1074,1219,1.1
+5/1/2022,5/31/2022,"Johnson County, KS",Single Family Residential,435000,399950,995,1112,1
+5/1/2022,5/31/2022,"Johnson County, KS",Townhouse,250000,399950,63,84,1.2
+5/1/2022,5/31/2022,"Johnson County, KS",Multi-Family (2-4 Unit),377500,399950,4,5,1.8
+4/1/2022,4/30/2022,"Johnson County, KS",Condo/Co-op,170000,400000,19,18,0.7
+4/1/2022,4/30/2022,"Johnson County, KS",Townhouse,265000,400000,60,70,1.1
+4/1/2022,4/30/2022,"Johnson County, KS",Multi-Family (2-4 Unit),353000,400000,4,7,1
+4/1/2022,4/30/2022,"Johnson County, KS",Single Family Residential,425000,400000,783,1137,1.3
+4/1/2022,4/30/2022,"Johnson County, KS",All Residential,400000,400000,866,1232,1.2
+3/1/2022,3/31/2022,"Johnson County, KS",All Residential,401000,388450,786,1112,1.2
+3/1/2022,3/31/2022,"Johnson County, KS",Single Family Residential,416000,388450,714,1015,1.3
+3/1/2022,3/31/2022,"Johnson County, KS",Condo/Co-op,180000,388450,19,15,0.4
+3/1/2022,3/31/2022,"Johnson County, KS",Townhouse,252500,388450,52,77,1.1
+3/1/2022,3/31/2022,"Johnson County, KS",Multi-Family (2-4 Unit),406000,388450,1,5,4
+2/1/2022,2/28/2022,"Johnson County, KS",All Residential,405500,395000,553,810,1.5
+2/1/2022,2/28/2022,"Johnson County, KS",Townhouse,227000,395000,45,50,1.2
+2/1/2022,2/28/2022,"Johnson County, KS",Condo/Co-op,174000,395000,14,20,0.9
+2/1/2022,2/28/2022,"Johnson County, KS",Multi-Family (2-4 Unit),390000,395000,6,4,0.5
+2/1/2022,2/28/2022,"Johnson County, KS",Single Family Residential,431000,395000,488,736,1.6
+1/1/2022,1/31/2022,"Johnson County, KS",Single Family Residential,410000,379950,464,570,1.5
+1/1/2022,1/31/2022,"Johnson County, KS",All Residential,387500,379950,526,649,1.5
+1/1/2022,1/31/2022,"Johnson County, KS",Multi-Family (2-4 Unit),386250,379950,10,5,0.3
+1/1/2022,1/31/2022,"Johnson County, KS",Townhouse,230000,379950,43,59,1.1
+1/1/2022,1/31/2022,"Johnson County, KS",Condo/Co-op,180000,379950,9,15,0.8
+12/1/2021,12/31/2021,"Johnson County, KS",Condo/Co-op,155000,370000,19,8,0.5
+12/1/2021,12/31/2021,"Johnson County, KS",Single Family Residential,395000,370000,826,446,0.9
+12/1/2021,12/31/2021,"Johnson County, KS",Multi-Family (2-4 Unit),345000,370000,13,7,0.3
+12/1/2021,12/31/2021,"Johnson County, KS",All Residential,375000,370000,920,502,0.8
+12/1/2021,12/31/2021,"Johnson County, KS",Townhouse,230500,370000,62,41,0.7
+11/1/2021,11/30/2021,"Johnson County, KS",Single Family Residential,371000,360000,856,562,1
+11/1/2021,11/30/2021,"Johnson County, KS",Multi-Family (2-4 Unit),362500,360000,6,15,1.7
+11/1/2021,11/30/2021,"Johnson County, KS",All Residential,355750,360000,952,648,1
+11/1/2021,11/30/2021,"Johnson County, KS",Condo/Co-op,157500,360000,22,16,0.7
+11/1/2021,11/30/2021,"Johnson County, KS",Townhouse,227000,360000,68,55,0.7
+10/1/2021,10/31/2021,"Johnson County, KS",Townhouse,215000,350000,64,83,1
+10/1/2021,10/31/2021,"Johnson County, KS",All Residential,360000,350000,991,968,1.1
+10/1/2021,10/31/2021,"Johnson County, KS",Single Family Residential,375444,350000,907,861,1.2
+10/1/2021,10/31/2021,"Johnson County, KS",Multi-Family (2-4 Unit),370000,350000,6,6,0.8
+10/1/2021,10/31/2021,"Johnson County, KS",Condo/Co-op,162000,350000,14,18,1.3
+9/1/2021,9/30/2021,"Johnson County, KS",Multi-Family (2-4 Unit),252500,360000,2,8,3
+9/1/2021,9/30/2021,"Johnson County, KS",Townhouse,220000,360000,71,65,0.9
+9/1/2021,9/30/2021,"Johnson County, KS",Single Family Residential,371250,360000,1002,880,1.2
+9/1/2021,9/30/2021,"Johnson County, KS",Condo/Co-op,145000,360000,25,21,0.8
+9/1/2021,9/30/2021,"Johnson County, KS",All Residential,359500,360000,1100,974,1.2
+8/1/2021,8/31/2021,"Johnson County, KS",All Residential,361000,350000,1235,1079,1.1
+8/1/2021,8/31/2021,"Johnson County, KS",Single Family Residential,377000,350000,1119,959,1.1
+8/1/2021,8/31/2021,"Johnson County, KS",Multi-Family (2-4 Unit),295000,350000,10,7,0.7
+8/1/2021,8/31/2021,"Johnson County, KS",Townhouse,225000,350000,83,90,0.8
+8/1/2021,8/31/2021,"Johnson County, KS",Condo/Co-op,157000,350000,23,23,1
+7/1/2021,7/31/2021,"Johnson County, KS",All Residential,375000,339950,1251,1279,1.2
+7/1/2021,7/31/2021,"Johnson County, KS",Multi-Family (2-4 Unit),345000,339950,7,8,0.7
+7/1/2021,7/31/2021,"Johnson County, KS",Condo/Co-op,150000,339950,17,25,1.4
+7/1/2021,7/31/2021,"Johnson County, KS",Townhouse,235000,339950,71,83,0.8
+7/1/2021,7/31/2021,"Johnson County, KS",Single Family Residential,385000,339950,1156,1163,1.2
+6/1/2021,6/30/2021,"Johnson County, KS",Multi-Family (2-4 Unit),321250,350000,14,7,0.3
+6/1/2021,6/30/2021,"Johnson County, KS",All Residential,370000,350000,1345,1321,1
+6/1/2021,6/30/2021,"Johnson County, KS",Single Family Residential,385000,350000,1224,1202,1.1
+6/1/2021,6/30/2021,"Johnson County, KS",Townhouse,245000,350000,83,87,0.7
+6/1/2021,6/30/2021,"Johnson County, KS",Condo/Co-op,189000,350000,24,25,1
+5/1/2021,5/31/2021,"Johnson County, KS",All Residential,373000,365000,1122,1360,1.2
+5/1/2021,5/31/2021,"Johnson County, KS",Condo/Co-op,185000,365000,17,17,0.8
+5/1/2021,5/31/2021,"Johnson County, KS",Townhouse,262500,365000,74,73,0.5
+5/1/2021,5/31/2021,"Johnson County, KS",Multi-Family (2-4 Unit),320000,365000,7,10,0.6
+5/1/2021,5/31/2021,"Johnson County, KS",Single Family Residential,390000,365000,1024,1260,1.2
+4/1/2021,4/30/2021,"Johnson County, KS",All Residential,368250,374600,992,1393,1.3
+4/1/2021,4/30/2021,"Johnson County, KS",Multi-Family (2-4 Unit),382500,374600,2,12,5.5
+4/1/2021,4/30/2021,"Johnson County, KS",Condo/Co-op,160000,374600,23,23,0.7
+4/1/2021,4/30/2021,"Johnson County, KS",Single Family Residential,381000,374600,901,1273,1.4
+4/1/2021,4/30/2021,"Johnson County, KS",Townhouse,270000,374600,66,85,0.7
+3/1/2021,3/31/2021,"Johnson County, KS",Townhouse,239500,369000,42,71,0.8
+3/1/2021,3/31/2021,"Johnson County, KS",Condo/Co-op,160000,369000,17,19,1.1
+3/1/2021,3/31/2021,"Johnson County, KS",Multi-Family (2-4 Unit),350000,369000,5,12,1.2
+3/1/2021,3/31/2021,"Johnson County, KS",All Residential,375000,369000,795,1251,1.5
+3/1/2021,3/31/2021,"Johnson County, KS",Single Family Residential,389900,369000,731,1149,1.5
+2/1/2021,2/28/2021,"Johnson County, KS",Townhouse,210475,379950,46,39,0.7
+2/1/2021,2/28/2021,"Johnson County, KS",Condo/Co-op,175000,379950,13,21,1.6
+2/1/2021,2/28/2021,"Johnson County, KS",All Residential,338000,379950,636,799,1.7
+2/1/2021,2/28/2021,"Johnson County, KS",Single Family Residential,359700,379950,574,731,1.8
+2/1/2021,2/28/2021,"Johnson County, KS",Multi-Family (2-4 Unit),272500,379950,3,8,0.7
+1/1/2021,1/31/2021,"Johnson County, KS",All Residential,331000,360000,673,810,1.7
+1/1/2021,1/31/2021,"Johnson County, KS",Condo/Co-op,214500,360000,10,11,1.7
+1/1/2021,1/31/2021,"Johnson County, KS",Multi-Family (2-4 Unit),275000,360000,6,2,0.2
+1/1/2021,1/31/2021,"Johnson County, KS",Single Family Residential,352000,360000,600,748,1.8
+1/1/2021,1/31/2021,"Johnson County, KS",Townhouse,198000,360000,57,49,0.6
+12/1/2020,12/31/2020,"Johnson County, KS",Condo/Co-op,155500,319900,27,13,0.7
+12/1/2020,12/31/2020,"Johnson County, KS",Multi-Family (2-4 Unit),254500,319900,4,6,0.8
+12/1/2020,12/31/2020,"Johnson County, KS",Townhouse,203500,319900,63,41,0.6
+12/1/2020,12/31/2020,"Johnson County, KS",All Residential,325000,319900,1008,584,1.1
+12/1/2020,12/31/2020,"Johnson County, KS",Single Family Residential,340000,319900,914,524,1.2
+11/1/2020,11/30/2020,"Johnson County, KS",Townhouse,202500,329000,66,52,0.8
+11/1/2020,11/30/2020,"Johnson County, KS",Single Family Residential,349500,329000,918,645,1.4
+11/1/2020,11/30/2020,"Johnson County, KS",Multi-Family (2-4 Unit),237012.5,329000,10,5,0.2
+11/1/2020,11/30/2020,"Johnson County, KS",All Residential,329950,329000,1012,718,1.3
+11/1/2020,11/30/2020,"Johnson County, KS",Condo/Co-op,140000,329000,18,16,1
+10/1/2020,10/31/2020,"Johnson County, KS",Townhouse,222500,320000,76,94,1
+10/1/2020,10/31/2020,"Johnson County, KS",All Residential,339000,320000,1152,1283,1.4
+10/1/2020,10/31/2020,"Johnson County, KS",Multi-Family (2-4 Unit),256250,320000,6,11,0.5
+10/1/2020,10/31/2020,"Johnson County, KS",Single Family Residential,349450,320000,1052,1155,1.4
+10/1/2020,10/31/2020,"Johnson County, KS",Condo/Co-op,147500,320000,18,23,1.5
+9/1/2020,9/30/2020,"Johnson County, KS",Townhouse,230000,350000,79,70,0.8
+9/1/2020,9/30/2020,"Johnson County, KS",All Residential,338050,350000,1174,1162,1.3
+9/1/2020,9/30/2020,"Johnson County, KS",Multi-Family (2-4 Unit),251400,350000,6,8,0.7
+9/1/2020,9/30/2020,"Johnson County, KS",Single Family Residential,355000,350000,1075,1060,1.3
+9/1/2020,9/30/2020,"Johnson County, KS",Condo/Co-op,148500,350000,14,24,1.7
+8/1/2020,8/31/2020,"Johnson County, KS",Townhouse,210500,335000,74,77,0.9
+8/1/2020,8/31/2020,"Johnson County, KS",Multi-Family (2-4 Unit),207500,335000,4,10,1
+8/1/2020,8/31/2020,"Johnson County, KS",Condo/Co-op,145000,335000,23,11,0.9
+8/1/2020,8/31/2020,"Johnson County, KS",Single Family Residential,349250,335000,1120,1103,1.3
+8/1/2020,8/31/2020,"Johnson County, KS",All Residential,334000,335000,1221,1201,1.2
+7/1/2020,7/31/2020,"Johnson County, KS",All Residential,337500,325000,1355,1324,1.2
+7/1/2020,7/31/2020,"Johnson County, KS",Multi-Family (2-4 Unit),280500,325000,7,3,0.7
+7/1/2020,7/31/2020,"Johnson County, KS",Townhouse,225000,325000,72,87,1
+7/1/2020,7/31/2020,"Johnson County, KS",Condo/Co-op,163800,325000,17,29,1.3
+7/1/2020,7/31/2020,"Johnson County, KS",Single Family Residential,348000,325000,1259,1205,1.2
+6/1/2020,6/30/2020,"Johnson County, KS",Condo/Co-op,132000,345000,19,17,0.9
+6/1/2020,6/30/2020,"Johnson County, KS",All Residential,325000,345000,1185,1285,1.4
+6/1/2020,6/30/2020,"Johnson County, KS",Multi-Family (2-4 Unit),277500,345000,4,7,1
+6/1/2020,6/30/2020,"Johnson County, KS",Townhouse,195000,345000,88,65,0.7
+6/1/2020,6/30/2020,"Johnson County, KS",Single Family Residential,335000,345000,1074,1196,1.4
+5/1/2020,5/31/2020,"Johnson County, KS",Condo/Co-op,137000,339000,15,13,1
+5/1/2020,5/31/2020,"Johnson County, KS",Townhouse,202500,339000,70,66,1
+5/1/2020,5/31/2020,"Johnson County, KS",All Residential,304051,339000,940,1225,1.9
+5/1/2020,5/31/2020,"Johnson County, KS",Multi-Family (2-4 Unit),210000,339000,9,7,0.4
+5/1/2020,5/31/2020,"Johnson County, KS",Single Family Residential,316750,339000,846,1139,2
+4/1/2020,4/30/2020,"Johnson County, KS",Single Family Residential,336750,312000,802,845,2
+4/1/2020,4/30/2020,"Johnson County, KS",Condo/Co-op,125840,312000,21,12,1
+4/1/2020,4/30/2020,"Johnson County, KS",Multi-Family (2-4 Unit),255000,312000,4,5,1.3
+4/1/2020,4/30/2020,"Johnson County, KS",Townhouse,219000,312000,64,63,1.2
+4/1/2020,4/30/2020,"Johnson County, KS",All Residential,320000,312000,891,925,1.9
+3/1/2020,3/31/2020,"Johnson County, KS",All Residential,325000,320000,882,1163,2
+3/1/2020,3/31/2020,"Johnson County, KS",Condo/Co-op,131000,320000,21,26,1.3
+3/1/2020,3/31/2020,"Johnson County, KS",Multi-Family (2-4 Unit),280000,320000,6,4,0.7
+3/1/2020,3/31/2020,"Johnson County, KS",Single Family Residential,338113.5,320000,786,1046,2
+3/1/2020,3/31/2020,"Johnson County, KS",Townhouse,185000,320000,69,87,1.2
+2/1/2020,2/29/2020,"Johnson County, KS",Multi-Family (2-4 Unit),295000,341000,5,10,1.2
+2/1/2020,2/29/2020,"Johnson County, KS",Condo/Co-op,130000,341000,13,21,2.1
+2/1/2020,2/29/2020,"Johnson County, KS",Single Family Residential,307500,341000,544,839,2.8
+2/1/2020,2/29/2020,"Johnson County, KS",All Residential,295000,341000,601,930,2.7
+2/1/2020,2/29/2020,"Johnson County, KS",Townhouse,155555,341000,39,60,2
+1/1/2020,1/31/2020,"Johnson County, KS",Multi-Family (2-4 Unit),280000,329900,3,7,1.3
+1/1/2020,1/31/2020,"Johnson County, KS",Condo/Co-op,116500,329900,12,18,2
+1/1/2020,1/31/2020,"Johnson County, KS",Townhouse,165500,329900,39,44,2
+1/1/2020,1/31/2020,"Johnson County, KS",Single Family Residential,319950,329900,512,641,2.9
+1/1/2020,1/31/2020,"Johnson County, KS",All Residential,305475,329900,565,710,2.8
+12/1/2019,12/31/2019,"Johnson County, KS",All Residential,298000,300000,811,424,2
+12/1/2019,12/31/2019,"Johnson County, KS",Condo/Co-op,120000,300000,16,10,1.8
+12/1/2019,12/31/2019,"Johnson County, KS",Single Family Residential,310000,300000,736,369,2.1
+12/1/2019,12/31/2019,"Johnson County, KS",Townhouse,212500,300000,56,40,1.6
+12/1/2019,12/31/2019,"Johnson County, KS",Multi-Family (2-4 Unit),142000,300000,3,5,1.3
+11/1/2019,11/30/2019,"Johnson County, KS",Townhouse,210000,320000,67,52,1.5
+11/1/2019,11/30/2019,"Johnson County, KS",Multi-Family (2-4 Unit),308500,320000,3,1,1.3
+11/1/2019,11/30/2019,"Johnson County, KS",All Residential,302000,320000,779,664,2.5
+11/1/2019,11/30/2019,"Johnson County, KS",Single Family Residential,315000,320000,695,605,2.6
+11/1/2019,11/30/2019,"Johnson County, KS",Condo/Co-op,176500,320000,14,6,1.9
+10/1/2019,10/31/2019,"Johnson County, KS",Condo/Co-op,133725,299000,16,18,2.3
+10/1/2019,10/31/2019,"Johnson County, KS",Multi-Family (2-4 Unit),350000,299000,7,3,1
+10/1/2019,10/31/2019,"Johnson County, KS",All Residential,295000,299000,939,911,2.3
+10/1/2019,10/31/2019,"Johnson County, KS",Single Family Residential,310000,299000,832,813,2.5
+10/1/2019,10/31/2019,"Johnson County, KS",Townhouse,170000,299000,84,77,1.3
+9/1/2019,9/30/2019,"Johnson County, KS",Multi-Family (2-4 Unit),250000,315000,5,12,2.2
+9/1/2019,9/30/2019,"Johnson County, KS",All Residential,285000,315000,894,1055,2.6
+9/1/2019,9/30/2019,"Johnson County, KS",Single Family Residential,300000,315000,801,942,2.7
+9/1/2019,9/30/2019,"Johnson County, KS",Townhouse,186975,315000,70,87,1.5
+9/1/2019,9/30/2019,"Johnson County, KS",Condo/Co-op,137050,315000,18,14,1.8
+8/1/2019,8/31/2019,"Johnson County, KS",All Residential,297475,300000,1182,1115,1.9
+8/1/2019,8/31/2019,"Johnson County, KS",Single Family Residential,305312.5,300000,1070,998,2
+8/1/2019,8/31/2019,"Johnson County, KS",Townhouse,181500,300000,85,88,1.3
+8/1/2019,8/31/2019,"Johnson County, KS",Multi-Family (2-4 Unit),244500,300000,10,9,0.5
+8/1/2019,8/31/2019,"Johnson County, KS",Condo/Co-op,194000,300000,17,20,2
+7/1/2019,7/31/2019,"Johnson County, KS",Single Family Residential,312250,285000,1116,1055,2
+7/1/2019,7/31/2019,"Johnson County, KS",Townhouse,189000,285000,73,77,1.4
+7/1/2019,7/31/2019,"Johnson County, KS",Condo/Co-op,159950,285000,18,20,1.9
+7/1/2019,7/31/2019,"Johnson County, KS",Multi-Family (2-4 Unit),250000,285000,7,5,1
+7/1/2019,7/31/2019,"Johnson County, KS",All Residential,305000,285000,1214,1157,1.9
+6/1/2019,6/30/2019,"Johnson County, KS",All Residential,308000,299500,1305,1299,1.8
+6/1/2019,6/30/2019,"Johnson County, KS",Single Family Residential,325000,299500,1187,1168,1.9
+6/1/2019,6/30/2019,"Johnson County, KS",Townhouse,196225,299500,92,105,1.3
+6/1/2019,6/30/2019,"Johnson County, KS",Condo/Co-op,145500,299500,25,15,1.2
+6/1/2019,6/30/2019,"Johnson County, KS",Multi-Family (2-4 Unit),237000,299500,1,11,9
+5/1/2019,5/31/2019,"Johnson County, KS",Single Family Residential,320000,310000,1169,1338,1.9
+5/1/2019,5/31/2019,"Johnson County, KS",Townhouse,189500,310000,65,85,1.7
+5/1/2019,5/31/2019,"Johnson County, KS",Multi-Family (2-4 Unit),233000,310000,8,8,0.6
+5/1/2019,5/31/2019,"Johnson County, KS",All Residential,310000,310000,1271,1462,1.8
+5/1/2019,5/31/2019,"Johnson County, KS",Condo/Co-op,131000,310000,29,31,1.2
+4/1/2019,4/30/2019,"Johnson County, KS",Condo/Co-op,147344,325000,14,24,2.3
+4/1/2019,4/30/2019,"Johnson County, KS",Multi-Family (2-4 Unit),238125,325000,4,5,1.3
+4/1/2019,4/30/2019,"Johnson County, KS",Townhouse,205500,325000,54,79,2
+4/1/2019,4/30/2019,"Johnson County, KS",Single Family Residential,305424.5,325000,850,1357,2.5
+4/1/2019,4/30/2019,"Johnson County, KS",All Residential,295750,325000,922,1465,2.5
+3/1/2019,3/31/2019,"Johnson County, KS",Townhouse,205000,310000,71,65,1.3
+3/1/2019,3/31/2019,"Johnson County, KS",Single Family Residential,310000,310000,681,1167,2.8
+3/1/2019,3/31/2019,"Johnson County, KS",Condo/Co-op,127000,310000,15,29,2.1
+3/1/2019,3/31/2019,"Johnson County, KS",Multi-Family (2-4 Unit),295000,310000,8,6,0.4
+3/1/2019,3/31/2019,"Johnson County, KS",All Residential,290000,310000,775,1267,2.6
+2/1/2019,2/28/2019,"Johnson County, KS",Condo/Co-op,121875,309725,14,17,2.1
+2/1/2019,2/28/2019,"Johnson County, KS",Single Family Residential,283500,309725,517,717,3.4
+2/1/2019,2/28/2019,"Johnson County, KS",Multi-Family (2-4 Unit),265000,309725,3,3,2.3
+2/1/2019,2/28/2019,"Johnson County, KS",All Residential,268900,309725,579,792,3.3
+2/1/2019,2/28/2019,"Johnson County, KS",Townhouse,164000,309725,45,55,2.1
+1/1/2019,1/31/2019,"Johnson County, KS",Multi-Family (2-4 Unit),248000,309000,5,8,2
+1/1/2019,1/31/2019,"Johnson County, KS",Condo/Co-op,127250,309000,8,14,3.1
+1/1/2019,1/31/2019,"Johnson County, KS",All Residential,277500,309000,528,762,3.6
+1/1/2019,1/31/2019,"Johnson County, KS",Townhouse,180000,309000,41,62,2.5
+1/1/2019,1/31/2019,"Johnson County, KS",Single Family Residential,295500,309000,474,678,3.7
+12/1/2018,12/31/2018,"Johnson County, KS",Condo/Co-op,176000,295200,11,9,2.5
+12/1/2018,12/31/2018,"Johnson County, KS",Townhouse,185500,295200,64,35,1.6
+12/1/2018,12/31/2018,"Johnson County, KS",Multi-Family (2-4 Unit),265000,295200,6,11,1.2
+12/1/2018,12/31/2018,"Johnson County, KS",All Residential,285000,295200,688,437,2.7
+12/1/2018,12/31/2018,"Johnson County, KS",Single Family Residential,299950,295200,607,382,2.9
+11/1/2018,11/30/2018,"Johnson County, KS",Condo/Co-op,127990,289700,18,6,1.5
+11/1/2018,11/30/2018,"Johnson County, KS",All Residential,281527,289700,877,679,2.4
+11/1/2018,11/30/2018,"Johnson County, KS",Multi-Family (2-4 Unit),240000,289700,5,7,1
+11/1/2018,11/30/2018,"Johnson County, KS",Single Family Residential,293000,289700,794,605,2.5
+11/1/2018,11/30/2018,"Johnson County, KS",Townhouse,189500,289700,60,61,1.9
+10/1/2018,10/31/2018,"Johnson County, KS",Multi-Family (2-4 Unit),207000,294950,10,5,0.8
+10/1/2018,10/31/2018,"Johnson County, KS",Single Family Residential,280000,294950,869,839,2.6
+10/1/2018,10/31/2018,"Johnson County, KS",Condo/Co-op,123500,294950,18,22,2.1
+10/1/2018,10/31/2018,"Johnson County, KS",Townhouse,178000,294950,63,69,2
+10/1/2018,10/31/2018,"Johnson County, KS",All Residential,270500,294950,960,935,2.5
+9/1/2018,9/30/2018,"Johnson County, KS",All Residential,264500,300000,836,1009,3.1
+9/1/2018,9/30/2018,"Johnson County, KS",Condo/Co-op,122500,300000,22,22,1.9
+9/1/2018,9/30/2018,"Johnson County, KS",Multi-Family (2-4 Unit),215000,300000,5,8,2
+9/1/2018,9/30/2018,"Johnson County, KS",Townhouse,178500,300000,78,63,1.8
+9/1/2018,9/30/2018,"Johnson County, KS",Single Family Residential,276000,300000,731,916,3.3
+8/1/2018,8/31/2018,"Johnson County, KS",Condo/Co-op,114200,279000,12,30,3.2
+8/1/2018,8/31/2018,"Johnson County, KS",All Residential,278000,279000,1139,1196,2.3
+8/1/2018,8/31/2018,"Johnson County, KS",Single Family Residential,295000,279000,1025,1074,2.3
+8/1/2018,8/31/2018,"Johnson County, KS",Townhouse,175000,279000,97,85,1.6
+8/1/2018,8/31/2018,"Johnson County, KS",Multi-Family (2-4 Unit),197500,279000,5,7,1.6
+7/1/2018,7/31/2018,"Johnson County, KS",All Residential,290000,274900,1183,1213,2.2
+7/1/2018,7/31/2018,"Johnson County, KS",Multi-Family (2-4 Unit),279500,274900,5,7,2
+7/1/2018,7/31/2018,"Johnson County, KS",Townhouse,179500,274900,86,110,1.8
+7/1/2018,7/31/2018,"Johnson County, KS",Condo/Co-op,139500,274900,20,14,1.3
+7/1/2018,7/31/2018,"Johnson County, KS",Single Family Residential,300000,274900,1072,1082,2.2
+6/1/2018,6/30/2018,"Johnson County, KS",Single Family Residential,301000,289500,1250,1269,1.9
+6/1/2018,6/30/2018,"Johnson County, KS",Multi-Family (2-4 Unit),252500,289500,5,6,1.2
+6/1/2018,6/30/2018,"Johnson County, KS",Condo/Co-op,141000,289500,22,25,1
+6/1/2018,6/30/2018,"Johnson County, KS",All Residential,290000,289500,1363,1385,1.8
+6/1/2018,6/30/2018,"Johnson County, KS",Townhouse,184500,289500,86,85,1.7
+5/1/2018,5/31/2018,"Johnson County, KS",Single Family Residential,300000,297750,1129,1309,2
+5/1/2018,5/31/2018,"Johnson County, KS",Townhouse,179000,297750,78,103,2
+5/1/2018,5/31/2018,"Johnson County, KS",Condo/Co-op,157000,297750,27,21,0.7
+5/1/2018,5/31/2018,"Johnson County, KS",All Residential,285000,297750,1240,1436,2
+5/1/2018,5/31/2018,"Johnson County, KS",Multi-Family (2-4 Unit),255000,297750,6,3,1.3
+4/1/2018,4/30/2018,"Johnson County, KS",Townhouse,168500,303250,79,84,1.7
+4/1/2018,4/30/2018,"Johnson County, KS",Multi-Family (2-4 Unit),262500,303250,6,8,2.3
+4/1/2018,4/30/2018,"Johnson County, KS",Condo/Co-op,147000,303250,13,21,1.4
+4/1/2018,4/30/2018,"Johnson County, KS",All Residential,280593,303250,954,1398,2.3
+4/1/2018,4/30/2018,"Johnson County, KS",Single Family Residential,297000,303250,856,1285,2.4
+3/1/2018,3/31/2018,"Johnson County, KS",Multi-Family (2-4 Unit),208750,299500,6,7,2.5
+3/1/2018,3/31/2018,"Johnson County, KS",Single Family Residential,291000,299500,759,1255,2.5
+3/1/2018,3/31/2018,"Johnson County, KS",Condo/Co-op,126500,299500,20,18,1.2
+3/1/2018,3/31/2018,"Johnson County, KS",All Residential,280000,299500,835,1371,2.5
+3/1/2018,3/31/2018,"Johnson County, KS",Townhouse,204500,299500,50,91,3
+2/1/2018,2/28/2018,"Johnson County, KS",Multi-Family (2-4 Unit),210000,299550,9,9,1.6
+2/1/2018,2/28/2018,"Johnson County, KS",All Residential,263000,299550,588,836,3
+2/1/2018,2/28/2018,"Johnson County, KS",Single Family Residential,280000,299550,531,761,3
+2/1/2018,2/28/2018,"Johnson County, KS",Townhouse,163000,299550,37,52,3.2
+2/1/2018,2/28/2018,"Johnson County, KS",Condo/Co-op,119000,299550,11,14,2.1
+1/1/2018,1/31/2018,"Johnson County, KS",Condo/Co-op,206000,276250,14,12,1.6
+1/1/2018,1/31/2018,"Johnson County, KS",Single Family Residential,280000,276250,519,664,3.1
+1/1/2018,1/31/2018,"Johnson County, KS",Multi-Family (2-4 Unit),180000,276250,10,15,1.4
+1/1/2018,1/31/2018,"Johnson County, KS",Townhouse,151850,276250,34,47,3.4
+1/1/2018,1/31/2018,"Johnson County, KS",All Residential,265000,276250,577,738,3.1
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
