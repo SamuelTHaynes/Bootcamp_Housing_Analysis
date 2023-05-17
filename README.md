@@ -24,14 +24,18 @@
     - What is the trend of rental prices for a 2-bedroom apartment in relationship to the trend of the median price of a single-family home?
 
 ## Task Breakdown
-- Find historical data sources for home prices, availability, listings, sale prices
-    - Download this data and make available for programming
-    - Clean and convert data as needed
-- Find historical data sources for rental rates
-    - Download this data and make available for programming
-    - Clean and convert data as needed
-- Find historical data sources for S&P data
-    - Download this data and make available for programming
-    - Clean and convert data as needed.
-- Develop graphs that display trends and correlations
+- •	Find historical data sources for home prices, availability, listings, sale prices – Sam
+o	Download this data and make available for programming
+o	Clean and convert data as needed
+•	Find historical data sources for rental rates – Nick
+o	Download this data and make available for programming
+o	Clean and convert data as needed
+•	Find historical data sources for S&P data – Kevin
+o	Download this data and make available for programming
+o	Clean and convert data as needed.
+•	Develop graphs that display trends and correlations – all working together.
+•	Develop Power Point presentation with graphs, etc
+•	Update ReadMe
+
+
 
