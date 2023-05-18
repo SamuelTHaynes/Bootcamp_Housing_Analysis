@@ -2,11 +2,12 @@
 
 ## Datasets we used:
 -	Historical Median House Monthly House Sales Prices
->-	https://www.zillow.com/research/data/
+>-	https://www.redfin.com/news/data-center/
 -	Historical Rental Rates Johnson County Kansas
 >-https://www.apartmentlist.com/research/category/data-rent-estimates
 -	Historical S&P Monthly closing information
 >-	https://www.investing.com/indices/us-spx-500-historical-data
+
 
 ## Research Questions to answer
 
@@ -22,6 +23,22 @@
     - Do the number of new listings have an impact on the sales price of a single-family home?
     - What is the difference between the actual purchase price and the listing price of a single-family home?
     - What is the trend of rental prices for a 2-bedroom apartment in relationship to the trend of the median price of a single-family home?
+
+## File Breakdown
+- Raw Data
+    - JOCO_Data.csv for House prices analysis
+    - Apartment_List_Rent_Estimates_2023_04.csv for rent price analysis
+    - S&P 500 5 Year Historical Data.csv for S&P 500 data analysis
+- Extraced/Cleaned Data
+    - JOCO_Median_Prices.csv
+- Analysis
+    - Median_Housing_Data.ipynb
+    - S&P_To_Median_Home_Price_Comparison.ipynb
+    - Johnson County Median Rent analysis.ipynb
+- Other Documentations/Materials
+    - Project Track.docx documentation for project
+    - .getignore to remove unneccessary files
+    - README.MD this file
 
 ## Task Breakdown
 - •	Find historical data sources for home prices, availability, listings, sale prices – Sam
