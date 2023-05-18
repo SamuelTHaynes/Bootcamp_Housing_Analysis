@@ -25,8 +25,8 @@
     - What is the trend of rental prices for a 2-bedroom apartment in relationship to the trend of the median price of a single-family home?
 
 ## File Breakdown
-- • Raw Data
-o JOCO_Data.csv for House prices analysis
+- Raw Data
+    - JOCO_Data.csv for House prices analysis
 o Apartment_List_Rent_Estimates_2023_04.csv for rent price analysis
 o S&P 500 5 Year Historical Data.csv for S&P 500 data analysis
 - • Extraced/Cleaned Data
