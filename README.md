@@ -27,18 +27,18 @@
 ## File Breakdown
 - Raw Data
     - JOCO_Data.csv for House prices analysis
-o Apartment_List_Rent_Estimates_2023_04.csv for rent price analysis
-o S&P 500 5 Year Historical Data.csv for S&P 500 data analysis
-- • Extraced/Cleaned Data
-o JOCO_Median_Prices.csv
-- • Analysis
-o Median_Housing_Data.ipynb
-o S&P_To_Median_Home_Price_Comparison.ipynb
-o Johnson County Median Rent analysis.ipynb
-- • Other Documentations/Materials
-o Project Track.docx documen
-o .getignore to remove unneccessary files
-o README.MD this file
+    - Apartment_List_Rent_Estimates_2023_04.csv for rent price analysis
+    - S&P 500 5 Year Historical Data.csv for S&P 500 data analysis
+- Extraced/Cleaned Data
+    - JOCO_Median_Prices.csv
+- Analysis
+    - Median_Housing_Data.ipynb
+    - S&P_To_Median_Home_Price_Comparison.ipynb
+    - Johnson County Median Rent analysis.ipynb
+- Other Documentations/Materials
+    - Project Track.docx documen
+    - .getignore to remove unneccessary files
+    - README.MD this file
 
 ## Task Breakdown
 - •	Find historical data sources for home prices, availability, listings, sale prices – Sam
