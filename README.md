@@ -40,19 +40,17 @@
     - .getignore to remove unneccessary files
     - README.MD this file
 
+## Data Cleanup
+- JOCO_Data.csv was cleaned by using the filters inside of Excel to only get the data for Johnson County Kansas. I selected only the columns for the data that we needed. Then filtered for data since 2018. (Sam)
+- Apartment_List_Rent_Estimates_2023_04.csv My data went back 5 years already. The most challenging part was "melting" the dataframe created from the csv. The dates in the original dataset were column headers, so I had to use the melt function to assign a date to each row of data. (Nick)
+- S&P 500 5 Year Historical Data.csv was filtered to only data from the last 5 years. (Kevin)
+
 ## Task Breakdown
-- •	Find historical data sources for home prices, availability, listings, sale prices – Sam
-o	Download this data and make available for programming
-o	Clean and convert data as needed
-•	Find historical data sources for rental rates – Nick
-o	Download this data and make available for programming
-o	Clean and convert data as needed
-•	Find historical data sources for S&P data – Kevin
-o	Download this data and make available for programming
-o	Clean and convert data as needed.
-•	Develop graphs that display trends and correlations – all working together.
-•	Develop Power Point presentation with graphs, etc
-•	Update ReadMe
+- Find historical data sources for home prices, availability, listings, sale prices, inventory, rent prices, s&p data
+- Download and clean data
+- Develop graphs that display trends and correlations
+- Develop Power Point presentation with graphs, etc
+- Update ReadMe
 
 
 
