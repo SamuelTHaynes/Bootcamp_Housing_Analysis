@@ -36,7 +36,7 @@
     - S&P_To_Median_Home_Price_Comparison.ipynb
     - Johnson County Median Rent analysis.ipynb
 - Other Documentations/Materials
-    - Project Track.docx documen
+    - Project Track.docx documentation for project
     - .getignore to remove unneccessary files
     - README.MD this file
 
